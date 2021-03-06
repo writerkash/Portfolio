@@ -29,7 +29,7 @@ seo:
         meet only when needed. And then there are others who make time to meet.
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: images/time.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
