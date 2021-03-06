@@ -15,7 +15,7 @@ header:
     - label: Home
       url: /
       style: link
-      - label: Projects
+    - label: Projects
       url: /style-guide/
       style: link
     - label: Blog
