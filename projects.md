@@ -41,7 +41,7 @@ layout: page
     <thead>
       <tr>
         <th>Company: Technowrites Pvt. Ltd.</th>
-        <th>Column 2</th>
+        <th>Location Shivajinagar</th>
         <th>Column 3</th>
       </tr>
     </thead>
