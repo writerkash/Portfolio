@@ -4,7 +4,7 @@ subtitle: >-
   Experience Summary: 
 seo:
   title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Akash Jujam experience summary
   extra:
     - name: 'og:type'
       value: website
