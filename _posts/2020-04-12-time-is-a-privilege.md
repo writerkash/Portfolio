@@ -11,7 +11,7 @@ content_img_path: images/3.jpg
 content_img_alt: A motorcycle in a forest
 seo:
   title: Time is a Privilege and not an Obligation
-  description: There are some who meet when only they have time. There are some who meet only when needed. And then there are others who make time to meet. 
+  description: There are some who meet when only they have time. There are some who meet only when needed. And then there are others who make time to meet.
   extra:
     - name: 'og:type'
       value: article
