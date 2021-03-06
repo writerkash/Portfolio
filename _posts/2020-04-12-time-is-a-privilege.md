@@ -3,14 +3,14 @@ title: Time is a Privilege and not an Obligation
 subtitle: A cautionary tale about riding
 excerpt: >-
   “Hi, can we meet?”
-“Yes, sure”
-“When?”
-“I don’t know”
-. . . . . . . . . . . . . . . . .
-“Hey, can we meet this weekend?”
-“I have an exam”
-“Oh! We can meet after your exams end?”
-“Yes, sure” 
+  “Yes, sure”
+  “When?”
+  “I don’t know”
+   . . . . . . . . . . . . . . . . .
+  “Hey, can we meet this weekend?”
+  “I have an exam”
+  “Oh! We can meet after your exams end?”
+  “Yes, sure” 
 date: '2018-01-23'
 thumb_img_path: images/3.jpg
 thumb_img_alt: A motorcycle in a forest
