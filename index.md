@@ -19,7 +19,13 @@ sections:
     type: section_content
     title: Certifications
     content: >
-    
+    •	DTC (Diploma in Technical Communication)
+Name of Organization: Technowrites Pvt. Ltd.
+•	DITA (Darwin Information Typing Architecture)
+Name of Organization: Technowrites Pvt. Ltd.
+•	Learning Rest APIs
+Name of Organization: LinkedIn Learning
+
     actions:
       - label: View Projects
         url: /projects
