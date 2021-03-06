@@ -63,7 +63,7 @@ layout: post
 . . . . . . . . . . . . . . . . .
 I don’t know how many of you will relate to a similar conversation. I hope pretty much of you. Next time you end up in such a conversation, make sure not to ask again to meet that person. Not because they are busy, but because you value your time. As we all say—time is of the essence and it should not be wasted on someone who doesn’t value it. Know your worth and have a tiny bit of self-respect.
 
-There are some who meet when only they have time. There are some who meet only when needed. And then there are others who make time to meet. I am sure you understood what I mean, and who are the best ones!
+**There are some who meet when only they have time. There are some who meet only when needed. And then there are others who make time to meet. I am sure you understood what I mean, and who are the best ones!
 
 Why someone has no time? If you think that’s because they are busy, you are completely wrong! There is no entity as such busy. It is all about the priorities of that person. If you are not on their priority list, then they have no time for you, or they don’t want to have time for you. It is as simple as that. When I tell someone, I am busy or I have no time, I expect that person to assume he is not my priority right now. But once I line up my priorities, I make sure to get back to that person.
 
