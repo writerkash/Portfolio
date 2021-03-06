@@ -48,7 +48,7 @@ layout: page
         <td>Responsibilites:
         </td>
                 <td>- Participating in meetings to understand the requirement.</td></tr>
-       <tr> <td>as </td>
+       <tr> <td>asasdf </td>
        <td> sp amd sp <>
          
     </tbody>
