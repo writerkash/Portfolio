@@ -19,7 +19,7 @@ sections:
     title: Certifications
     content: >
       - (DTC) Diploma in Technical Communication
-         Name of the Organization:
+        - Name of the Organization:
     actions:
       - label: View Projects
         url: /projects
