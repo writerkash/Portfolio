@@ -39,7 +39,7 @@ sections:
           Snagit, Jing
       *   **Drawing tools**  
           Pencil, OpenOffice Draw
-      *   **Applications**  
+      *   **Image editors**  
           MS Word, Atlassian Confluence, Adobe Captivate, Git and GitHub, Oxygen XML Editor, MS PowerPoint, Grammarly, Moodle, Adobe Presenter, MS Excel, Adobe RoboHelp, DITA-OT
       *   **Screen capturing tools**  
           Snagit, Jing
