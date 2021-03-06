@@ -23,7 +23,7 @@ sections:
         url: /contact
         style: button
   - section_id: recent-projects
-    type: section
+    type: section_
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
