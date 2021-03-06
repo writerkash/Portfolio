@@ -9,7 +9,7 @@ palette: blue
 header:
   title: Akash Vijay Jujam
   tagline: Docs for Life!
-  profile_img: images/propic.jpg
+  profile_img: images/author.jpg
   background: dark
   has_nav: true
   nav_links:
