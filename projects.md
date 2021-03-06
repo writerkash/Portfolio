@@ -37,7 +37,7 @@ layout: page
 
 <div class="responsive-table">
   <table>
-    <caption>Simple table with caption and header</
+    <caption>Simple table with caption and header</caption>
     <thead>
       <tr>
         <th>Company: Technowrites Pvt. Ltd.</th>
