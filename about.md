@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: This a .
 img_path: images/propic.jpg
 img_alt: Akash the Writer
 seo:
