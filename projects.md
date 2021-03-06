@@ -52,7 +52,7 @@ layout: page
         <td>Responsibilites:
         </td>
                 <td></td></tr>
-        <td> </td>
+       <tr> <td> </td>
          </tr>
     </tbody>
   </table>
