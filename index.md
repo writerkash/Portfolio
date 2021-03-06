@@ -15,7 +15,7 @@ sections:
       I am a bachelors in Electronics and Tele-Communication and a Technical
       Writer by profession. I am always keen about learning new technologies,
       and enhance user experience by creating quality documentation.
-      
+    actions:  
   - section_id: about
     type: section_content
     title: Certifications
