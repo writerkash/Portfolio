@@ -45,3 +45,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
+There are many situations in our lives that completely changes the world around us. We always curse the bad situations, but forget to be grateful for the good ones. These situations can be anything, starting from small things like a fight with your best friend or stumbling to handle stress at your job, to big things like finding the love of your life or getting that promotion in your job you’d always dreamed of. It can be almost anything that has made you happy or sad.
+
+Many times, we don’t appreciate a good situation or a moment, unless we come across a bad one. We feel so bad about it that we don’t even remember the good things that have happened earlier. Every single thing seems to be bad, and eventually, we start hating life.
