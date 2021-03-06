@@ -1,5 +1,5 @@
 ---
-title: The Ride In The Woods
+title: Time is a Privilege and not an Obligation
 subtitle: A cautionary tale about riding
 excerpt: >-
   The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
