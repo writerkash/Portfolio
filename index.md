@@ -12,18 +12,20 @@ sections:
     type: section_content
     title: About
     content: >
-      I am a bachelor of Electronics and Tele-Communication engineering and a Technical Writer by profession. I am always keen to learn new technologies and enhance the user experience by creating quality documentation.
-    actions: []  
+      I am a bachelor of Electronics and Tele-Communication engineering and a
+      Technical Writer by profession. I am always keen to learn new technologies
+      and enhance the user experience by creating quality documentation.
+    actions: []
   - section_id: about
     type: section_content
     title: Certifications
-    content: >
-      - **(DTC) Diploma in Technical Communication**  
-         Name of the Organization: Technowrites Pvt. Ltd.
-      - **DITA (Darwin Information Typing Architecture**  
-         Name of the Organization: Technowrites Pvt. Ltd.
-      - **Learning Rest APIs**  
-         LinkedIn Learning
+    content: |
+      *   **(DTC) Diploma in Technical Communication**\
+          Name of the Organization: Technowrites Pvt. Ltd.
+      *   **DITA (Darwin Information Typing Architecture**\
+          Name of the Organization: Technowrites Pvt. Ltd.
+      *   **Learning Rest APIs**\
+          LinkedIn Learning
     actions:
       - label: View Projects
         url: /projects
@@ -31,7 +33,6 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-
 seo:
   title: Akash Jujam's brief profile
   description: >-
