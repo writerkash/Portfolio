@@ -26,7 +26,7 @@ sections:
           Name of the Organization: Technowrites Pvt. Ltd.
       *   **Learning Rest APIs**  
           Name of the Organization: LinkedIn Learning
-  - section_id: about
+  - section_id: Technical Skills
     type: section_content
     title: Certifications
     content: >
