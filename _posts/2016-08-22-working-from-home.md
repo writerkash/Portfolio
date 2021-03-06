@@ -1,9 +1,12 @@
 ---
 title: It Matters That You Just Don't Give Up!
 excerpt: >-
-  How many times is it that you have failed? Once? Twice? Or did you just lose the count? Life is built upon our failures. It is what most people fail to understand. Every time we would try something, does not mean we will excel at it in a single try. It is said that "who has never failed, has never tried".
+  How many times is it that you have failed? Once? Twice? Or did you just lose
+  the count? Life is built upon our failures. It is what most people fail to
+  understand. Every time we would try something, does not mean we will excel at
+  it in a single try. It is said that "who has never failed, has never tried".
 date: '2018-08-11'
-thumb_img_path: images/9.jpg
+thumb_img_path: images/Dont-Give-Up.jpg
 thumb_img_alt: A man sitting at the table
 content_img_path: images/9.jpg
 content_img_alt: A man sitting at the table
