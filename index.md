@@ -29,6 +29,7 @@ sections:
   - section_id: about
     type: section_posts
     title: Technical Skills
+    content: >
     actions:
       - label: View Projects
         url: /projects
