@@ -49,7 +49,7 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Responsibilites:
+        <td>Responsibilites:</td>
                 <td>a</td>
         <td> </td>
          </tr>
