@@ -52,7 +52,7 @@ layout: page
         <td>Responsibilites:
         </td>
                 <td></td></tr>
-       <tr> <td> </td>
+       <tr> <td> •	Participating in meetings to understand the requirement.</td>
          </tr>
     </tbody>
   </table>
