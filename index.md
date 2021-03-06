@@ -28,7 +28,7 @@ sections:
           Name of the Organization: LinkedIn Learning
   - section_id: Technical Skills
     type: section_post
-    title: Certifications
+    title: Technical Skills
     content: >
     actions:
       - label: View Projects
