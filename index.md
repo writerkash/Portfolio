@@ -20,7 +20,7 @@ sections:
     title: Certifications
     content: >
     •	DTC (Diploma in Technical Communication)
-Name of Organization: Technowrites Pvt. Ltd.
+        Name of Organization: Technowrites Pvt. Ltd.
 •	DITA (Darwin Information Typing Architecture)
 Name of Organization: Technowrites Pvt. Ltd.
 •	Learning Rest APIs
