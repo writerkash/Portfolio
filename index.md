@@ -31,7 +31,7 @@ sections:
     type: section_content
     title: Technical Skills
     content: >
-      *   **(DTC) Diploma in Technical Communication**  
+      *   **Operating Sys**  
           Name of the Organization: Technowrites Pvt. Ltd.
       *   **DITA (Darwin Information Typing Architecture**  
           Name of the Organization: Technowrites Pvt. Ltd.
