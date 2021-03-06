@@ -12,7 +12,9 @@ sections:
     type: section_content
     title: About
     content: >
-      I am a bachelors in Electronics and Tele-Communication and a Technical Writer by profession. I am always keen about learning new technologies, and enhance user experience by creating quality documentation.
+      I am a bachelors in Electronics and Tele-Communication and a Technical
+      Writer by profession. I am always keen about learning new technologies,
+      and enhance user experience by creating quality documentation.
     actions:
       - label: View Projects
         url: /projects
@@ -30,7 +32,7 @@ sections:
         style: button
 seo:
   title: Akash Jujam's brief profile
-  description: This is a brief profile of Akash Jujam
+  description: This is a brief profile of Akash Jujam.
   extra:
     - name: 'og:type'
       value: website
