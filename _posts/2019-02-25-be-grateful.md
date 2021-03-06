@@ -10,7 +10,7 @@ thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
 seo:
-  title: Fragments of Iceland
+  title: Be Grateful Before It's Too Late
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   extra:
     - name: 'og:type'
