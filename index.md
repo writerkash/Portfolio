@@ -34,7 +34,7 @@ sections:
       I am a bachelor of Electronics and | Syntax      | Description |
         | ----------- | ----------- |
         | Header      | Title       |
-| Paragraph   | Text        |
+        | Paragraph   | Text        |
     actions:
       - label: View Projects
         url: /projects
