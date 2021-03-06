@@ -49,11 +49,8 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Responsibilites:
-        - Participating</td>
-        </tr>
-      <tr>
-             </tr>
+        <td>Responsibilites:</td>
+         </tr>
     </tbody>
   </table>
 
