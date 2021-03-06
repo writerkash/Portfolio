@@ -12,7 +12,7 @@ content_img_path: images/Dont-Give-Up.jpg
 content_img_alt: Don't Give Up
 seo:
   title: It Matters That You Just Don't Give Up!
-  description: Work at home parent is an entrepreneur who works from home
+  description: Don't give up, keep going
   extra:
     - name: 'og:type'
       value: article
