@@ -71,7 +71,7 @@ If someone is giving you their time, it’s a privilege and not an obligation. T
 
 I want to part this in two different situations:
 
-When someone asks you to meet
+# When someone asks you to meet
 Respect that person’s time. Realise that you are an important part of their life that they want to spend their time with you—time that cannot be recovered. If you can’t meet, deny it politely and commit a time when you can see them next time. This will not hurt that person, neither it will hurt that person’s feelings.
 
 When you ask someone to meet
