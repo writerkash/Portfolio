@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Akash Jujam's brief profile
-  description: The preview of the Fresh theme
+  description: This is a brief profile of Akash Jujam
   extra:
     - name: 'og:type'
       value: website
