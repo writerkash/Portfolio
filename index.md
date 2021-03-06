@@ -32,9 +32,9 @@ sections:
     content: >
       |   |   |   |   |   |
       |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+      |   |   |   |   |   |
+      |   |   |   |   |   |
+      |   |   |   |   |   |
     actions:
       - label: View Projects
         url: /projects
