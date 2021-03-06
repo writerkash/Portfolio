@@ -1,8 +1,9 @@
 ---
 title: About Me
-subtitle: Career Summary
 img_path: images/propic.jpg
 img_alt: Akash the Writer
+subtitle: Career Summary
+
 seo:
   title: About Me
   description: About Akash the Technical Writer
