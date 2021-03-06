@@ -32,7 +32,9 @@ sections:
         style: button
 seo:
   title: Akash Jujam's brief profile
-  description: This is a brief profile of Akash Jujam.
+  description: >-
+    This is a brief profile of Akash Jujam. He is a passionate Technical Writer
+    who loves technology, and love creating product documentation.
   extra:
     - name: 'og:type'
       value: website
