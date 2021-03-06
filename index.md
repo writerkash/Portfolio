@@ -20,7 +20,7 @@ sections:
     content: >
       - **(DTC) Diploma in Technical Communication**  
          Name of the Organization: Technowrites Pvt. Ltd.
-      - **•	DITA (Darwin Information Typing Architecture**  
+      - **DITA (Darwin Information Typing Architecture**  
          Name of the Organization: Technowrites Pvt. Ltd.
     actions:
       - label: View Projects
