@@ -49,7 +49,7 @@ layout: page
         </td>
                 <td>- Participating in meetings to understand the requirement.</td></tr>
        <tr> <td> </td>
-       <td> sp amd sp </td>
+       <td> sp amd sp </>
          
     </tbody>
   </table>
