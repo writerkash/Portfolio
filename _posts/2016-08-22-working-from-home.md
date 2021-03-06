@@ -1,9 +1,7 @@
 ---
 title: It Matters That You Just Don't Give Up!
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+  How many times is it that you have failed? Once? Twice? Or did you just lose the count? Life is built upon our failures. It is what most people fail to understand. Every time we would try something, does not mean we will excel at it in a single try. It is said that "who has never failed, has never tried"..
 date: '2016-08-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: A man sitting at the table
