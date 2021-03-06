@@ -10,7 +10,7 @@ excerpt: >-
   happy or sad.
 date: '2019-02-25'
 thumb_img_path: images/Be-grateful.png
-thumb_img_alt: Icelandic horses
+thumb_img_alt: Be Grateful
 content_img_path: images/Be-grateful.png
 content_img_alt: Icelandic horses
 seo:
