@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:title'
       value: Akash Jujam's brief profile
     - name: 'twitter:description'
-      value: his is a brief profile of Akash Jujam
+      value: This is a brief profile of Akash Jujam
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
