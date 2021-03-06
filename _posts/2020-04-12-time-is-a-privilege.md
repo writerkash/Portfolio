@@ -74,7 +74,7 @@ I want to part this in two different situations:
 # When someone asks you to meet
 Respect that person’s time. Realise that you are an important part of their life that they want to spend their time with you—time that cannot be recovered. If you can’t meet, deny it politely and commit a time when you can see them next time. This will not hurt that person, neither it will hurt that person’s feelings.
 
-When you ask someone to meet
+# When you ask someone to meet
 Observe if that person respects your time. Are they really excited to meet you? If they deny, do they commit some other time in the future? If they keep pushing it further, understand that they really don’t want to take out time for you. There is a moment of disappointment, but Hey! Is it really more important than your self-worth?
 
 I personally believe in giving three chances. Giving more than that is really being silly. I leave the number of chances for you. Decide your number, of how many times you are going to ask someone to spend their time with you. But remember—Don’t lose your self-respect.
