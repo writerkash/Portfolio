@@ -53,6 +53,7 @@ layout: page
         </td>
                 <td></td></tr>
        <tr> <td> - Participating in meetings to understand the requirement.</td>
+       <td>
          </tr>
     </tbody>
   </table>
