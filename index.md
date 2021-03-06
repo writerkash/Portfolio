@@ -24,7 +24,7 @@ sections:
     •	DITA (Darwin Information Typing Architecture)
         Name of Organization: Technowrites Pvt. Ltd.
     •	Learning Rest APIs
-Name of Organization: LinkedIn Learning
+        Name of Organization: LinkedIn Learning
 
     actions:
       - label: View Projects
