@@ -44,7 +44,7 @@ layout: page
         <th>Location: Shivajinagar</th>
       </tr>  
     <th>Period: March 2018 till date</th>
-    <th>Designation: Senior Technical Writer
+    <th>Designation: Senior Technical Writer </th>
       </tr>
     </thead>
     <tbody>
