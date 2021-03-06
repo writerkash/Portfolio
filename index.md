@@ -41,7 +41,7 @@ sections:
           Pencil, OpenOffice Draw
       *   **Image editors**  
           Paint, Photoshop
-      *   **Screen capturing tools**  
+      *   **Programming or markup languages known**  
           Snagit, Jing
       *   **Screen capturing tools**  
           Snagit, Jing
