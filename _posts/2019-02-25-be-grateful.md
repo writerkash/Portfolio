@@ -4,10 +4,7 @@ excerpt: >-
   There are many situations in our lives that completely changes the world
   around us. We always curse the bad situations, but forget to be grateful for
   the good ones. These situations can be anything, starting from small things
-  like a fight with your best friend or stumbling to handle stress at your job,
-  to big things like finding the love of your life or getting that promotion in
-  your job you’d always dreamed of. It can be almost anything that has made you
-  happy or sad.
+  like a fight with your best friend or stumbling to handle stress at your job.
 date: '2019-02-25'
 thumb_img_path: images/Be-grateful.png
 thumb_img_alt: Be Grateful
