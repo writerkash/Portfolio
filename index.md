@@ -31,8 +31,12 @@ sections:
     type: section_content
     title: Technical Skills
     content: >
-      I am a bachelor of Electronics and                 
-       
+      *   **(DTC) Diploma in Technical Communication**  
+          Name of the Organization: Technowrites Pvt. Ltd.
+      *   **DITA (Darwin Information Typing Architecture**  
+          Name of the Organization: Technowrites Pvt. Ltd.
+      *   **Learning Rest APIs**  
+          Name of the Organization: LinkedIn Learning
     actions:
       - label: View Projects
         url: /projects
