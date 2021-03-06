@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fresh Theme
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: his is a brief profile of Akash Jujam
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
