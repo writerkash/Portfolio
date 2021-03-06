@@ -32,10 +32,8 @@ seo:
 layout: page
 ---
 I have worked extensively for **Software** as well as **Mechanical** domain. I have worked diversely on several documents including,
-
 *   User Guides/Manuals
-
-*   Administrator Guides
+* Administrator Guides
 
 *   API Guides
 
