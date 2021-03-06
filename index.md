@@ -74,7 +74,7 @@ seo:
 layout: advanced
 ---
 
-| Sample      | edd         |
+        | Sample      | edd         |
         | ----------- | ----------- |
         | Header      | Title       |
         | Paragraph   | Text        |
