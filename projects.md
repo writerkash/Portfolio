@@ -50,7 +50,7 @@ layout: page
     <tbody>
       <tr>
         <td>Responsibilites:
-                a</td>
+                <tra</td>
         <td> </td>
          </tr>
     </tbody>
