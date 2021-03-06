@@ -11,7 +11,7 @@ thumb_img_alt: Don't Give Up
 content_img_path: images/Dont-Give-Up.jpg
 content_img_alt: Don't Give Up
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: It Matters That You Just Don't Give Up!
   description: Work at home parent is an entrepreneur who works from home
   extra:
     - name: 'og:type'
