@@ -52,7 +52,7 @@ seo:
     - name: 'twitter:description'
       value: This is a brief profile of Akash Jujam
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/propic.jpg
       relativeUrl: true
 layout: advanced
 ---
