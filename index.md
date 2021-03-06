@@ -19,7 +19,7 @@ sections:
     type: section_content
     title: Certifications
     content: >
-   actions:
+    actions:
       - label: View Projects
         url: /projects
         style: button
