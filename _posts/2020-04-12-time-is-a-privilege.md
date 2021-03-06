@@ -9,7 +9,7 @@ excerpt: >-
 date: '2018-01-23'
 thumb_img_path: images/time.jpg
 thumb_img_alt: A motorcycle in a forest
-content_img_path: images/charming-whale.jpg
+content_img_path: images/time.jpg
 content_img_alt: A motorcycle in a forest
 seo:
   title: Time is a Privilege and not an Obligation
