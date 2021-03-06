@@ -36,7 +36,13 @@ sections:
         | ----------- | ----------- |
         | Header      | Title       |
         | Paragraph   | Text        |
-    
+    actions:
+      - label: View Projects
+        url: /projects
+        style: button
+      - label: Contact Me
+        url: /contact
+        style: button
 seo:
   title: Akash Jujam's brief profile
   description: >-
