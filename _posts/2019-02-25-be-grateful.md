@@ -54,3 +54,10 @@ Yes, I understand life is hard at times. But does cursing make it better? Nothin
 Life is all about the ups and downs. Even a heart rate falls before it rises, which technically means you are alive, isn’t it? So, what’s wrong if life does the same. It will show you the dark side to help you understand the bright side of happiness, and it will give you joy to forget your sorrows.
 
 We are never late to blame something when things go wrong. But are we quick enough to be grateful for something good that has happened? It does not always have to be a situation to be grateful for. I will list some of the things that you can be grateful for:
+Family
+Friends
+Job
+Relationship
+Your boss/manager/colleagues
+Food that you eat
+Water that you drink, and so on
