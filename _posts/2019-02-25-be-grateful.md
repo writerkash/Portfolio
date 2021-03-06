@@ -9,7 +9,7 @@ excerpt: >-
   your job you’d always dreamed of. It can be almost anything that has made you
   happy or sad.
 date: '2019-02-25'
-thumb_img_path: images/7.jpg
+thumb_img_path: images/important-mango.png
 thumb_img_alt: Icelandic horses
 content_img_path: images/Be-grateful.png
 content_img_alt: Icelandic horses
