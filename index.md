@@ -22,11 +22,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - section_id: recent-projects
-    type: section_posts
-    title: Recent Projects
-    posts_number: 4
-  - section_id: recent-posts
+    - section_id: recent-posts
     type: section_posts
     title: Recent Posts
     posts_number: 4
