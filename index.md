@@ -32,10 +32,7 @@ sections:
     title: Technical Skills
     content: >
       I am a bachelor of Electronics and                 
-        | Sample      | edd         |
-        | ----------- | ----------- |
-        | Header      | Title       |
-        | Paragraph   | Text        |
+        
     actions:
       - label: View Projects
         url: /projects
