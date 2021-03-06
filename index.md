@@ -43,7 +43,7 @@ sections:
           Paint, Photoshop
       *   **Programming or markup languages known**  
           HTML, XML
-      *   **Screen capturing tools**  
+      *   **Meeting tools**  
           Snagit, Jing
     actions:
       - label: View Projects
