@@ -44,6 +44,7 @@ layout: page
         <th>Location: Shivajinagar</th>
       </tr>  
     <th>Period: March 2018 till date</th>
+    <th>
       </tr>
     </thead>
     <tbody>
