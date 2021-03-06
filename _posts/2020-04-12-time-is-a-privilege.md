@@ -41,7 +41,7 @@ seo:
         There are some who meet when only they have time. There are some who
         meet only when needed. And then there are others who make time to meet.
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: images/time.jpg
       relativeUrl: true
 layout: post
 ---
