@@ -14,8 +14,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Akash Jujam experience summary
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
