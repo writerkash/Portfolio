@@ -40,7 +40,7 @@ sections:
       *   **Drawing tools**  
           Pencil, OpenOffice Draw
       *   **Image editors**  
-          MS Word, Atlassian Confluence, Adobe Captivate, Git and GitHub, Oxygen XML Editor, MS PowerPoint, Grammarly, Moodle, Adobe Presenter, MS Excel, Adobe RoboHelp, DITA-OT
+          Paint, Photoshop
       *   **Screen capturing tools**  
           Snagit, Jing
       *   **Screen capturing tools**  
