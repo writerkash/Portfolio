@@ -17,7 +17,7 @@ sections:
       and enhance user experience by creating quality documentation.
   - section_id: about
     type: section_content
-    title: About
+    title: Certifications
     content: >
     actions:
       - label: View Projects
