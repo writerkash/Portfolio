@@ -73,8 +73,3 @@ seo:
       relativeUrl: true
 layout: advanced
 ---
-
-        | Sample      | edd         |
-        | ----------- | ----------- |
-        | Header      | Title       |
-        | Paragraph   | Text        |
