@@ -16,21 +16,21 @@ sections:
       Technical Writer by profession. I am always keen to learn new technologies
       and enhance the user experience by creating quality documentation.
       <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
+      <tr>
+      <th>Firstname</th>
+      <th>Lastname</th>
+      <th>Age</th>
+      </tr>
+      <tr>
+     <td>Jill</td>
+     <td>Smith</td>
+     <td>50</td>
+     </tr>
+    <tr>
+      <td>Eve</td>
+      <td>Jackson</td>
+      <td>94</td>
+    </tr>
 </table>
     actions: []
   - section_id: about
