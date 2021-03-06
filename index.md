@@ -33,7 +33,7 @@ sections:
     content: >
       I am a bachelor of Electronics and | Syntax      | Description |
         | ----------- | ----------- |
-| Header      | Title       |
+        | Header      | Title       |
 | Paragraph   | Text        |
     actions:
       - label: View Projects
