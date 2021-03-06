@@ -47,9 +47,9 @@ layout: page
       <tr>
         <td>Responsibilites:
         </td>
-                <td>- Participating in meetings to understand the requirement.</td></tr>
-       <tr> <td>- Preparing outlines (ToC) and estimating the project for cost and time effort.</td>
-       <td> sp amd sp </td> 
+                <td></td></tr>
+       <tr> <td> - Participating in meetings to understand the requirement.</td>
+         
     </tbody>
   </table>
 
