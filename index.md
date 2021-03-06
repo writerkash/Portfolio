@@ -63,5 +63,5 @@ seo:
     - name: 'twitter:image'
       value: images/propic.jpg
       relativeUrl: true
-layout: advanced
+layout: page
 ---
