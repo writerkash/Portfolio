@@ -47,7 +47,7 @@ header:
     - label: Facebook
       url: 'https://dev.to/'
       style: icon
-      icon_class: Facebook
+      icon_class: facebook
       new_window: true
   profile_img: images/futuristic-lettuce.jpg
 footer:
