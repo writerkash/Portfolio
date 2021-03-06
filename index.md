@@ -27,7 +27,7 @@ sections:
       *   **Learning Rest APIs**  
           Name of the Organization: LinkedIn Learning
   - section_id: Technical Skills
-    type: section_content
+    type: section_post
     title: Certifications
     content: >
     actions:
