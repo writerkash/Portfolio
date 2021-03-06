@@ -42,7 +42,7 @@ seo:
       value: This is a brief profile of Akash Jujam
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/propic.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
