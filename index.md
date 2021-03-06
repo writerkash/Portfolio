@@ -32,7 +32,7 @@ sections:
     title: Technical Skills
     content: >
       *   **Operating Systems**  
-          Name of the Organization: Technowrites Pvt. Ltd.
+          MS Windows 7, Windows 8, Windows 10, Linux (Ubuntu)
       *   **DITA (Darwin Information Typing Architecture**  
           Name of the Organization: Technowrites Pvt. Ltd.
       *   **Learning Rest APIs**  
