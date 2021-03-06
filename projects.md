@@ -1,7 +1,7 @@
 ---
 title: Projects
 subtitle: >-
-  Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
+  Experience Summary: 
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
