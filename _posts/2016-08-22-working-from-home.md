@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:description'
       value: Don't give up, keep going
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: images/Dont-Give-Up9.jpg
       relativeUrl: true
 layout: post
 ---
