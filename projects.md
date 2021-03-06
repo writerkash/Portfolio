@@ -42,7 +42,7 @@ layout: page
       <tr>
         <th>Company: Technowrites Pvt. Ltd.</th>
         <th>Location Shivajinagar</th>
-        <th>Column 3</th>
+        <th>@nbsp</th>
       </tr>
     </thead>
     <tbody>
