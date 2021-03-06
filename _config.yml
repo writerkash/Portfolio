@@ -21,9 +21,7 @@ header:
     - label: Blog
       url: /blog/
       style: link
-    - label: About
-      url: /about/
-      style: link
+    
     - label: Contact
       url: /contact/
       style: link
