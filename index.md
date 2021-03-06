@@ -44,7 +44,7 @@ sections:
       *   **Programming or markup languages known**  
           HTML, XML
       *   **Meeting tools**  
-          Snagit, Jing
+          Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
     actions:
       - label: View Projects
         url: /projects
