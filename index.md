@@ -23,8 +23,8 @@ sections:
         url: /contact
         style: button
     - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts
+      type: section_posts
+      title: Recent Posts
     posts_number: 4
     actions:
       - label: View Blog
