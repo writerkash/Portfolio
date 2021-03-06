@@ -29,7 +29,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Akash Jujam's brief prof
+  title: Akash Jujam's brief profile
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
