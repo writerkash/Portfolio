@@ -28,7 +28,7 @@ sections:
       *   **Learning Rest APIs**  
           Name of the Organization: LinkedIn Learning
   - section_id: technical skills
-    type: markdown
+    type: section
     title: Technical Skills
     content: >
       I am a bachelor of Electronics and                 
