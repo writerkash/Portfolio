@@ -49,7 +49,7 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Row 1, Cell 1</td>
+        <td>Responsibilites:</td>
         </tr>
       <tr>
              </tr>
