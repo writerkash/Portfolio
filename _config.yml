@@ -15,12 +15,13 @@ header:
     - label: Home
       url: /
       style: link
+      - label: Projects
+      url: /style-guide/
+      style: link
     - label: Blog
       url: /blog/
       style: link
-    - label: Projects
-      url: /style-guide/
-      style: link
+    
     - label: About
       url: /about/
       style: link
