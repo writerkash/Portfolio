@@ -7,7 +7,7 @@ excerpt: >-
   it in a single try. It is said that "who has never failed, has never tried".
 date: '2018-08-11'
 thumb_img_path: images/Dont-Give-Up.jpg
-thumb_img_alt: A man sitting at the table
+thumb_img_alt: Don't Give Up
 content_img_path: images/Dont-Give-Up.jpg
 content_img_alt: Don't Give Up
 seo:
