@@ -45,9 +45,9 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Responsibilites: sf
+        <td>Responsibilites:
         </td>
-                <td>- - Participating in meetings to understand the requirement.</td></tr>
+                <td>- Participating in meetings to understand the requirement.</td></tr>
        <tr> <td> </td>
        <td> sp amd sp <>
          
