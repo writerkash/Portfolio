@@ -25,7 +25,7 @@ sections:
   - section_id: recent-projects
     type: section_posts
     title: Recent Projects
-    posts
+    posts_number: 4
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
