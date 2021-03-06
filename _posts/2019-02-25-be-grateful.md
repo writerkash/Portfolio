@@ -45,13 +45,20 @@ seo:
       relativeUrl: true
 layout: post
 ---
+*   There are many situations in our lives that completely changes the world around us. We always curse the bad situations, but forget to be grateful for the good ones. These situations can be anything, starting from small things like a fight with your best friend or stumbling to handle stress at your job, to big things like finding the love of your life or getting that promotion in your job you’d always dreamed of. It can be almost anything that has made you happy or sad.
 
-Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
+    Many times, we don’t appreciate a good situation or a moment, unless we come across a bad one. We feel so bad about it that we don’t even remember the good things that have happened earlier. Every single thing seems to be bad, and eventually, we start hating life.
 
-**Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
+    Yes, I understand life is hard at times. But does cursing make it better? Nothing but worse will follow, and you won't know it. Let us decide to find at least one thing you can be grateful for. Will that make a difference? It will and if not, it won’t harm anything though. Anyways, cursing life does not make it any better.
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
+    Life is all about the ups and downs. Even a heart rate falls before it rises, which technically means you are alive, isn’t it? So, what’s wrong if life does the same. It will show you the dark side to help you understand the bright side of happiness, and it will give you joy to forget your sorrows.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
+    We are never late to blame something when things go wrong. But are we quick enough to be grateful for something good that has happened? It does not always have to be a situation to be grateful for. I will list some of the things that you can be grateful for:
 
-Pulvinar pellentesque habitant morbi tristique senectus et netus et. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Erat nam at lectus urna duis. Lacinia quis vel eros donec ac odio. Eget nulla facilisi etiam dignissim diam quis. Arcu dictum varius duis at consectetur lorem donec massa. Egestas tellus rutrum tellus pellentesque eu. Egestas erat imperdiet sed euismod nisi porta. Nec feugiat in fermentum posuere urna. Viverra ipsum nunc aliquet bibendum enim. Fermentum odio eu feugiat pretium. Vestibulum rhoncus est pellentesque elit. Elit ut aliquam purus sit amet luctus venenatis. Donec ac odio tempor orci dapibus ultrices in. Vitae justo eget magna fermentum. At tellus at urna condimentum mattis pellentesque id nibh tortor. Arcu dictum varius duis at consectetur lorem donec massa. Malesuada proin libero nunc consequat interdum varius sit amet. Dui accumsan sit amet nulla facilisi. Ut venenatis tellus in metus vulputate.
+    Family
+    Friends
+    Job
+    Relationship
+    Your boss/manager/colleagues
+    Food that you eat
+    Water that you drink, and so on
