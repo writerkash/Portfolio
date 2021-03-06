@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about me page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/propic.jpg
       relativeUrl: true
 layout: page
 ---
