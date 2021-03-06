@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:title'
       value: Time is a Privilege and not an Obligation
     - name: 'twitter:description'
-      value: A cautionary tale about riding
+      value: There are some who meet when only they have time. There are some who meet only when needed. And then there are others who make time to meet. 
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
