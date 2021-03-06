@@ -49,8 +49,7 @@ layout: page
         </td>
                 <td>- Participating in meetings to understand the requirement.</td></tr>
        <tr> <td>•	Preparing outlines (ToC) and estimating the project for cost and time effort.</td>
-       <td> sp amd sp </td>
-         
+       <td> sp amd sp </td> 
     </tbody>
   </table>
 
