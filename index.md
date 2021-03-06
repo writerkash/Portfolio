@@ -33,7 +33,7 @@ sections:
     content: >
       *   **Operating Systems**  
           MS Windows 7, Windows 8, Windows 10, Linux (Ubuntu)
-      *   **DITA (Darwin Information Typing Architecture**  
+      *   **Applications**  
           Name of the Organization: Technowrites Pvt. Ltd.
       *   **Learning Rest APIs**  
           Name of the Organization: LinkedIn Learning
