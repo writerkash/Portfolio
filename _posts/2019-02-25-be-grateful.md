@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fragments of Iceland
+      value: Be Grateful
       keyName: property
     - name: 'og:description'
       value: >-
