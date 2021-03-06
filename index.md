@@ -19,7 +19,7 @@ sections:
   - section_id: about
     type: section_content
     title: Certifications
-    content: |
+    content: >
       *   **(DTC) Diploma in Technical Communication**\
           Name of the Organization: Technowrites Pvt. Ltd.
       *   **DITA (Darwin Information Typing Architecture**\
