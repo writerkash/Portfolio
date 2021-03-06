@@ -60,4 +60,8 @@ We are never late to blame something when things go wrong. But are we quick enou
 - Relationship
 - Your boss/manager/colleagues
 - Food that you eat
-- Water that you drink, and so on]
+- Water that you drink, and so on
+
+Some of them may sound silly but think of your life without them. Unimaginable, right?
+
+Some of you may even say, “I don’t have a job I wanted, why should I be grateful for it?” But wait and think of the situation where people don’t even have a job. Now, whose life is better? I don’t need to say.
