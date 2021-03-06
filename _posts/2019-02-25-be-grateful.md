@@ -29,7 +29,7 @@ seo:
         Ocean.
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: images/Be-grateful.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -41,7 +41,7 @@ seo:
         Iceland is a Nordic country between the North Atlantic and the Arctic
         Ocean.
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/Be-grateful.png
       relativeUrl: true
 layout: post
 ---
