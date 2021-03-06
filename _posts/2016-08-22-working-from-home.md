@@ -39,7 +39,7 @@ seo:
 layout: post
 ---
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+How many times is it that you have failed? Once? Twice? Or did you just lose the count? Life is built upon our failures. It is what most people fail to understand. Every time we would try something, does not mean we will excel at it in a single try. It is said that "who has never failed, has never tried".
 
 ## Advantages and Disadvantages 
 
