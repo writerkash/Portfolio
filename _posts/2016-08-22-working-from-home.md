@@ -27,7 +27,7 @@ seo:
       value: images/Dont-Give-Up.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: ''
       value: summary_large_image
     - name: 'twitter:title'
       value: Don't give up, keep going
