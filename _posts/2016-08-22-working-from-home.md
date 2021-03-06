@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:title'
       value: Don't give up, keep going
     - name: 'twitter:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: Don't give up, keep going
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
