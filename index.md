@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, folks'
     content: |
-      Writing is my passion, and the love for documentation has got me this far!
+      Writing is my passion, and the love for documentation keeps me going!
     actions: []
   - section_id: about
     type: section_content
