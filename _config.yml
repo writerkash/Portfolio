@@ -44,7 +44,7 @@ header:
       style: icon
       icon_class: linkedin
       new_window: true
-    - label: DEV
+    - label: Facebook
       url: 'https://dev.to/'
       style: icon
       icon_class: dev
