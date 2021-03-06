@@ -19,7 +19,7 @@ header:
       url: /about/
       style: link
     - label: Projects
-      url: /style-guide/
+      url: /projects/
       style: link
     - label: Blog
       url: /blog/
