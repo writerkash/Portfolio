@@ -5,7 +5,7 @@ img_path: images/propic.jpg
 img_alt: Akash the Writer
 seo:
   title: About Me
-  description: This is the about me page
+  description: About Akash the Technical Writer
   extra:
     - name: 'og:type'
       value: website
