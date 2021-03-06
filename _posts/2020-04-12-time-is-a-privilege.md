@@ -54,22 +54,13 @@ layout: post
 “I have an exam”
 “Oh! We can meet after your exams end?”
 “Yes, sure”
-
-. .  . . . . . . . . . . . . . .
-
-“Heya, did your exams get over?”
-
-“Yes, a while ago!”
-
-“Can we meet now?”
-
-“I am busy”
-
-“Ok”
-
 . . . . . . . . . . . . . . . . .
-
-
+“Heya, did your exams get over?”
+“Yes, a while ago!”
+“Can we meet now?”
+“I am busy”
+“Ok”
+. . . . . . . . . . . . . . . . .
 
 I don’t know how many of you will relate to a similar conversation. I hope pretty much of you. Next time you end up in such a conversation, make sure not to ask again to meet that person. Not because they are busy, but because you value your time. As we all say—time is of the essence and it should not be wasted on someone who doesn’t value it. Know your worth and have a tiny bit of self-respect.
 
