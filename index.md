@@ -24,7 +24,7 @@ sections:
         style: button
   - section_id: recent-projects
     type: section_posts
-    title
+    title: Recent Projects
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
