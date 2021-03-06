@@ -42,7 +42,7 @@ layout: page
       <tr>
         <th>Company: Technowrites Pvt. Ltd.</th>
         <th>Location: Shivajinagar</th>
-        
+      </tr>  
     <th>Period: March 2018 till date</th>
       </tr>
     </thead>
