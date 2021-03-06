@@ -51,7 +51,7 @@ layout: page
       <tr>
         <td>Responsibilites:
         </td>
-                <td></td>
+                <td></td></tr>
         <td> </td>
          </tr>
     </tbody>
