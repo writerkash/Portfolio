@@ -40,7 +40,7 @@ I have worked extensively for **Software** as well as **Mechanical** domain. I h
 * White Papers
 * Company Profiles
 * Training Materials
-*   SDLC Documentation
+* SDLC Documentation
 
 *   SOPs
 
