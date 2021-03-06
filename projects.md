@@ -36,20 +36,22 @@ layout: page
     <caption>Simple table with caption and header</caption>
     <thead>
       <tr>
-        <th>Company: Technowrites Pvt. Ltd.</th>
-        <th>Location: Shivajinagar</th>
-      </tr>  
-    <th>Period: March 2018 till date</th>
-    <th>Designation: Senior Technical Writer </th>
+        <th>Column 1</th>
+        <th>Column 2</th>
+        <th>Column 3</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Responsibilites:
-        </td>
-                <td></td></tr>
-       <tr> <td> - Participating in meetings to understand the requirement.</td>
-         
+        <td>Row 1, Cell 1</td>
+        <td>Row 1, Cell 2</td>
+        <td>Row 1, Cell 3</td>
+      </tr>
+      <tr>
+        <td>Row 2, Cell 1</td>
+        <td>Row 2, Cell 2</td>
+        <td>Row 2, Cell 3</td>
+      </tr>
     </tbody>
   </table>
 
