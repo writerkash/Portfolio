@@ -51,8 +51,7 @@ header:
       new_window: true
   profile_img: images/propic.jpg
 footer:
-  content: >-
-    &copy; 2021 Akash Jujam. All rights reserved.
+  content: '&copy; 2021 Akash Jujam. All rights reserved.'
 sass:
   indentWidth: 4
   style: nested
@@ -72,4 +71,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://scientific-europa-3590e.netlify.app'
+domain: 'https://www.akashthewriter.com'
