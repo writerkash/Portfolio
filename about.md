@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This.
+subtitle: Career
 img_path: images/propic.jpg
 img_alt: Akash the Writer
 seo:
