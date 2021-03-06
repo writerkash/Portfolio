@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Ride In The Woods
+      value: Time is a Privilege and not an Obligation
       keyName: property
     - name: 'og:description'
       value: A cautionary tale about riding
