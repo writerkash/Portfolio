@@ -57,11 +57,7 @@ header:
   profile_img: images/futuristic-lettuce.jpg
 footer:
   content: >-
-    &copy; Akash Jujam. All rights reserved. This Jamstack site was created with <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>. Create yours <a
-    href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>
+    &copy; Akash Jujam. All rights reserved.
 sass:
   indentWidth: 4
   style: nested
