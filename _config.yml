@@ -45,7 +45,7 @@ header:
       icon_class: linkedin
       new_window: true
     - label: Facebook
-      url: 'https://dev.to/'
+      url: 'https://www.facebook.com/jujamakash/'
       style: icon
       icon_class: facebook
       new_window: true
