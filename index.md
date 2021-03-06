@@ -26,15 +26,7 @@ sections:
           Name of the Organization: Technowrites Pvt. Ltd.
       *   **Learning Rest APIs**  
           Name of the Organization: LinkedIn Learning
-  - section_id: about
-    type: section_content
-    title: Technical Skills
-    content: >
-      |   |   |   |   |   |
-      |---|---|---|---|---|
-      |   |   |   |   |   |
-      |   |   |   |   |   |
-      |   |   |   |   |   |
+ 
     actions:
       - label: View Projects
         url: /projects
