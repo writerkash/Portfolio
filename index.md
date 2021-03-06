@@ -23,7 +23,7 @@ sections:
       - **DITA (Darwin Information Typing Architecture**  
          Name of the Organization: Technowrites Pvt. Ltd.
       - **Learning Rest APIs**  
-         
+         LinkedIn Learning
     actions:
       - label: View Projects
         url: /projects
