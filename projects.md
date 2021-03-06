@@ -52,8 +52,7 @@ layout: page
         <td>Row 1, Cell 1</td>
         </tr>
       <tr>
-        
-      </tr>
+             </tr>
     </tbody>
   </table>
 
