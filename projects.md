@@ -49,7 +49,7 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Responsibilites:<>
+        <td>Responsibilites:</td>
         - Participating</td>
         </tr>
       <tr>
