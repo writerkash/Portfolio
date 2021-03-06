@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Akash Jujam's brief profile
     - name: 'twitter:description'
       value: his is a brief profile of Akash Jujam
     - name: 'twitter:image'
