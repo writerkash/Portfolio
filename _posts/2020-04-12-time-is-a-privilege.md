@@ -46,24 +46,16 @@ seo:
 layout: post
 ---
 “Hi, can we meet?”
-
 “Yes, sure”
-
 “When?”
-
 “I don’t know”
-
 . . . . . . . . . . . . . . . . .
-
 “Hey, can we meet this weekend?”
-
 “I have an exam”
-
 “Oh! We can meet after your exams end?”
-
 “Yes, sure”
 
-. . . . . . . . . . . . . . . . .
+. .  . . . . . . . . . . . . . .
 
 “Heya, did your exams get over?”
 
