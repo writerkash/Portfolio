@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Ride In The Woods
+      value: Time is a Privilege and not an Obligation
     - name: 'twitter:description'
       value: A cautionary tale about riding
     - name: 'twitter:image'
