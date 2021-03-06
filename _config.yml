@@ -52,14 +52,7 @@ header:
   profile_img: images/propic.jpg
 footer:
   content: '&copy; 2021 Akash Jujam. All rights reserved.'
-  links:
-    - label: lorem-ipsum
-      url: '#'
-      style: link
-      icon_class: dev
-      new_window: false
-      no_follow: true
-      type: action
+  links: []
 sass:
   indentWidth: 4
   style: nested
