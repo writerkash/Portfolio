@@ -12,7 +12,7 @@ date: '2019-02-25'
 thumb_img_path: images/Be-grateful.png
 thumb_img_alt: Be Grateful
 content_img_path: images/Be-grateful.png
-content_img_alt: Icelandic horses
+content_img_alt: Be Greateful
 seo:
   title: Be Grateful Before It's Too Late
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
