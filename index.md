@@ -26,7 +26,7 @@ sections:
           Name of the Organization: Technowrites Pvt. Ltd.
       *   **Learning Rest APIs**  
           Name of the Organization: LinkedIn Learning
- - section_id
+ - section_id: about
     actions:
       - label: View Projects
         url: /projects
