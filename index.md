@@ -12,9 +12,7 @@ sections:
     type: section_content
     title: About
     content: >
-      I am a bachelors in Electronics and Tele-Communication and a Technical
-      Writer by profession. I am always keen about learning new technologies,
-      and enhance user experience by creating quality documentation.
+      I am a bachelor's in Electronics and Tele-Communication and a Technical Writer by profession. I am always keen on learning new technologies and enhance the user experience by creating quality documentation.
     actions: []  
   - section_id: about
     type: section_content
