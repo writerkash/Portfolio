@@ -2,23 +2,20 @@
 title: Time is a Privilege and not an Obligation
 subtitle: A cautionary tale about riding
 excerpt: >-
-  “Hi, can we meet?”
-  “Yes, sure”
-  “When?”
-  “I don’t know”
+  “Hi, can we meet?” “Yes, sure” “When?” “I don’t know”
    . . . . . . . . . . . . . . . . .
-  “Hey, can we meet this weekend?”
-  “I have an exam”
-  “Oh! We can meet after your exams end?”
-  “Yes, sure” 
+  “Hey, can we meet this weekend?” “I have an exam” “Oh! We can meet after your
+  exams end?” “Yes, sure” 
 date: '2018-01-23'
-thumb_img_path: images/3.jpg
+thumb_img_path: images/time.jpg
 thumb_img_alt: A motorcycle in a forest
 content_img_path: images/3.jpg
 content_img_alt: A motorcycle in a forest
 seo:
   title: Time is a Privilege and not an Obligation
-  description: There are some who meet when only they have time. There are some who meet only when needed. And then there are others who make time to meet.
+  description: >-
+    There are some who meet when only they have time. There are some who meet
+    only when needed. And then there are others who make time to meet.
   extra:
     - name: 'og:type'
       value: article
@@ -27,7 +24,9 @@ seo:
       value: Time is a Privilege and not an Obligation
       keyName: property
     - name: 'og:description'
-      value: There are some who meet when only they have time. There are some who meet only when needed. And then there are others who make time to meet. 
+      value: >-
+        There are some who meet when only they have time. There are some who
+        meet only when needed. And then there are others who make time to meet.
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
@@ -38,7 +37,9 @@ seo:
     - name: 'twitter:title'
       value: Time is a Privilege and not an Obligation
     - name: 'twitter:description'
-      value: There are some who meet when only they have time. There are some who meet only when needed. And then there are others who make time to meet. 
+      value: >-
+        There are some who meet when only they have time. There are some who
+        meet only when needed. And then there are others who make time to meet.
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
