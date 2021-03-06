@@ -60,4 +60,4 @@ We are never late to blame something when things go wrong. But are we quick enou
 - Relationship
 - Your boss/manager/colleagues
 - Food that you eat
-- Water that you drink, and so on
+- Water that you drink, and so on]
