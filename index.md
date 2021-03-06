@@ -22,7 +22,7 @@ sections:
          Name of the Organization: Technowrites Pvt. Ltd.
       - **DITA (Darwin Information Typing Architecture**  
          Name of the Organization: Technowrites Pvt. Ltd.
-      - **Learning Rest APIs
+      - **Learning Rest APIs**
     actions:
       - label: View Projects
         url: /projects
