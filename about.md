@@ -36,16 +36,11 @@ I have worked extensively for **Software** as well as **Mechanical** domain. I h
 * Administrator Guides
 * API Guides
 * Technical Papers
-
-*   Case Studies
-
-*   White Papers
-
-*   Company Profiles
-
-*   Training Materials
-
-*   SDLC Documentation
+* Case Studies
+* White Papers
+* Company Profiles
+* Training Materials
+   SDLC Documentation
 
 *   SOPs
 
