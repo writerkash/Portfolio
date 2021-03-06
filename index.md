@@ -39,7 +39,7 @@ seo:
       value: Akash Jujam's brief profile
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: his is a brief profile of Akash Jujam
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
