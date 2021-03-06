@@ -24,7 +24,6 @@ header:
     - label: Blog
       url: /blog/
       style: link
-    
     - label: Contact
       url: /contact/
       style: link
