@@ -20,7 +20,7 @@ sections:
     type: section_content
     title: Certifications
     content: >
-      ??
+      Diploma in Technical Communication
     actions:
       - label: View Projects
         url: /projects
