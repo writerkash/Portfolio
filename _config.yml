@@ -29,7 +29,6 @@ header:
       style: link
   has_social: true
   social_links:
-   
     - label: Instagram
       url: 'https://www.instagram.com/'
       style: icon
