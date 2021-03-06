@@ -40,7 +40,7 @@ layout: page
     <caption>Simple table with caption and header</caption>
     <thead>
       <tr>
-        <th>Company: 1</th>
+        <th>Company: Technowrites Pvt. Ltd.</th>
         <th>Column 2</th>
         <th>Column 3</th>
       </tr>
