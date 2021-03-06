@@ -20,6 +20,8 @@ sections:
     content: >
       - **(DTC) Diploma in Technical Communication**  
          Name of the Organization: Technowrites Pvt. Ltd.
+    - **(DTC) Diploma in Technical Communication**  
+         Name of the Organization: Technowrites Pvt. Ltd.
     actions:
       - label: View Projects
         url: /projects
