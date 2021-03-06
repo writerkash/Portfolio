@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fragments of Iceland
+      value: Be Grateful Before It's Too Late
     - name: 'twitter:description'
       value: >-
         Iceland is a Nordic country between the North Atlantic and the Arctic
