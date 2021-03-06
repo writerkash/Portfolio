@@ -42,7 +42,7 @@ sections:
       *   **Image editors**  
           Paint, Photoshop
       *   **Programming or markup languages known**  
-          Snagit, Jing
+          HTML, XML
       *   **Screen capturing tools**  
           Snagit, Jing
     actions:
