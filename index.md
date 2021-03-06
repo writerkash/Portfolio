@@ -31,7 +31,7 @@ sections:
     type: markdown
     title: Technical Skills
     content: >
-      I am a bachelor of Electronics and                    | Syntax      | Description |
+      I am a bachelor of Electronics and                   | Syntax      | Description |
         | ----------- | ----------- |
         | Header      | Title       |
         | Paragraph   | Text        |
