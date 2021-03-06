@@ -27,7 +27,7 @@ sections:
       *   **Learning Rest APIs**  
           Name of the Organization: LinkedIn Learning
   - section_id: about
-  
+    type: section_posts
     actions:
       - label: View Projects
         url: /projects
