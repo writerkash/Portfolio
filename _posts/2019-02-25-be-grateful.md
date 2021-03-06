@@ -1,9 +1,7 @@
 ---
 title: Be Grateful Before It's Too Late
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  There are many situations in our lives that completely changes the world around us. We always curse the bad situations, but forget to be grateful for the good ones. These situations can be anything, starting from small things like a fight with your best friend or stumbling to handle stress at your job, to big things like finding the love of your life or getting that promotion in your job you’d always dreamed of. It can be almost anything that has made you happy or sad.
 date: '2019-03-27'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
