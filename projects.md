@@ -50,7 +50,7 @@ layout: page
     <tbody>
       <tr>
         <td>Responsibilites:</td>
-       <td> - Participating</td>
+        - Participating</td>
         </tr>
       <tr>
              </tr>
