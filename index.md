@@ -7,6 +7,14 @@ sections:
     title: 'Hi, folks'
     content: |
       Writing is my passion, and the love for documentation has got me this far!
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: about
     type: section_content
     title: About
