@@ -33,9 +33,12 @@ seo:
 layout: page
 ---
 
+## Tables
+
 <div class="responsive-table">
   <table>
-        <thead>
+    <caption>Simple table with caption and header</caption>
+    <thead>
       <tr>
         <th>Company: Technowrites Pvt. Ltd.</th>
         <th>Column 2</th>
