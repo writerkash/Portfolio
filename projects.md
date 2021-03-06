@@ -48,7 +48,7 @@ layout: page
         <td>Responsibilites:
         </td>
                 <td>- Participating in meetings to understand the requirement.</td></tr>
-       <tr> <td>asasdf </td>
+       <tr> <td>•	Preparing outlines (ToC) and estimating the project for cost and time effort.</td>
        <td> sp amd sp <>
          
     </tbody>
