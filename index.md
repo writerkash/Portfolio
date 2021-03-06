@@ -29,7 +29,7 @@ sections:
           Name of the Organization: LinkedIn Learning
   - section_id: about
     type: section_posts
-    title: About
+    title: Technical Skills
     content: >
       I am a bachelor of Electronics and 
     actions:
