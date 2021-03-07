@@ -11,7 +11,7 @@ sections:
     actions: []
     type: section_content
 - title: Extra Curriculum Activities
-    section_id: performance award
+    section_id: curriculum activities
     image_alt: performance award
     content: |
       *   Migrated the entire team to Microsoft 365 and trained the team.
