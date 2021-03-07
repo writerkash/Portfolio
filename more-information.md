@@ -6,16 +6,9 @@ sections:
     section_id: performance award
     image_alt: performance award
     content: >-
-      ## Lorem ipsum
+      •	Migrated the entire team to Microsoft 365 and trained the team.
+•	Edited and published a book on Amazon.in
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
 seo:
