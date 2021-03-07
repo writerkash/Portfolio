@@ -45,7 +45,11 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Row 1, Cell 1 <br><ui> <li>responsibilities</ui></td>
+        <td>Row 1, Cell 1 <br><ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul></td>
       </tr>
       <tr>
         <td>Row 2, Cell 1</td>
