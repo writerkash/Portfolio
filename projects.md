@@ -80,7 +80,7 @@ layout: page
     <td>MS Word</td></tr>
     <td> 3. </td>
     <td> Servocontrols & Hydraulics India Pvt. Ltd. </td>
-    <td>User Guide (Markdown)<br> (Managed One Writer)
+    <td>User Manual for Jammer System <br> (Managed One Writer)
    </td>
     <td>MS Word</td></tr>
     <td> 4. </td>
