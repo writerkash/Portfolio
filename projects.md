@@ -140,7 +140,7 @@ layout: page
     <td> 9. </td>
     <td> Ilantus Technologies (Bangalore) </td>
     <td><ul><li>Two Administrator’s Guides</li>
-            <li>Two User’s Guides</li></ul>(Managed a team of Four Writers)
+            <li>Two User’s Guides</li></ul>
    </td>
     <td>MS Word</td></tr>
     <tr>
