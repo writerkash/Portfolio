@@ -90,8 +90,8 @@ layout: page
     <td><ul><li>User’s Guide</li>
             <li>Administrator’s Guide</li>
             <li>Algorithm Reference Guide</li>
-            <li>Concept Dictionary
-•	FAQs document
+            <li>Concept Dictionary </li>
+            <li>FAQs document
 •	How-to Articles
 •	Learning Content
 •	Product Demo Videos
