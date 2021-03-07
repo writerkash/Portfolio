@@ -154,7 +154,6 @@ layout: page
     <td> API Guides and User’s Guide)</td>
     <td>MS Wor</td></tr>
     <tr>
-    <tr>
     <td> 1. </td>
     <td> Alef Edge </td>
     <td> User Guide (Markdown)<br> (Managed One Writer)</td>
