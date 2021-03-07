@@ -60,7 +60,7 @@ layout: page
      <tr>
       <th>Sr. No.</th>
       <th>Company</th>
-      <th>
+      <th> 
      </tr>
     </thead>
   <tbody>
