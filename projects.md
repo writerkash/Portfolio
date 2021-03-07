@@ -56,7 +56,7 @@ layout: page
  <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
 <li> Conducting training lectures.
 </li></ul>
-  /tr>
+  </tr>
     </tbody>
   </table>
 
