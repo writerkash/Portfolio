@@ -53,7 +53,7 @@ layout: page
   <li>Working on multiple projects at a time and completing the tasks within a deadline.</li>
  <li> Writing and Reviewing the documents for language, style, and consistency. </li>
  <li> Preparing Minutes of Meeting (MoM). </li>
- <li> Preparing in-house documentation, training material, PowerPoint presentations.
+ <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
 •	Conducting training lectures.
 </li>
   <li>Participating in meetings to understand the requirement.</li>
