@@ -3,7 +3,7 @@ title: More Information
 hide_title: false
 sections:
   - title: Individual Performance Award
-    section_id: lorem-ipsum
+    section_id: Individual Performance Award
     posts_number: 0
     actions: []
     type: section_posts
