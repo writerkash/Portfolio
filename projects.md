@@ -37,7 +37,7 @@ layout: page
       <tr><th>Period: March 2018 till date</th></tr>
       <tr><th>Designation: Senior Technical Writer</th></tr>
     </thead>
-    <tbody>
+  <tbody>
    <tr>
   <td style="white-space:nowrap"><b>Responsibilities</b>:  <br><ul>
   <li>Participating in meetings to understand the requirement.</li>
