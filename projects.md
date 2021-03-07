@@ -139,7 +139,7 @@ layout: page
 <tr>
     <td> 9. </td>
     <td> Spring Computing Technologies Pvt. Ltd. </td>
-    <td><ul><li>Super Admin Guide</li>
+    <td><ul><li>Two Administrator’s Guides</li>
             <li>Delegated Admin Guide</li>
             <li>Agent Guide</li></ul>(Managed a team of Four Writers)
    </td>
