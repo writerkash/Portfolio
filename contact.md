@@ -2,7 +2,7 @@
 title: Contact
 hide_title: false
 sections:
-- section_id: about
+  - section_id: about
     type: section_content
     title: About
     content: >
