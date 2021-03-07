@@ -119,12 +119,12 @@ layout: page
    <td>MS Word</td></tr>
    <tr>
  <tr>
-    <td> 7. </td>
-    <td> Mahindra Tsubaki Conveyor Systems Private Limited </td>
-    <td>Seven User Manuals for various equipment
+   <td> 7. </td>
+   <td> Mahindra Tsubaki Conveyor Systems Private Limited </td>
+   <td>Seven User Manuals for various equipment
    </td>
-    <td>MS Word</td></tr>
-     <tr>
+   <td>MS Word</td></tr>
+   <tr>
   <tr>
     <td> 8. </td>
     <td> CREDAI (National) </td>
