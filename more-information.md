@@ -15,7 +15,7 @@ sections:
     image_alt: curriculum activities
     content: |
       *  Conducted Webinars.
-•	Conducted training lectures at Fergusson College and Technowrites.
+      Conducted training lectures at Fergusson College and Technowrites.
 •	Participated in the STC India National conference held in December 2018 in Mumbai, December 2019 in Chennai, December 2020 (Virtual).
 •	Participated in various regional conferences held by the STC India.
 •	Participated in various webinars held by the STC India.
