@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - title: Individual Performance Award
     section_id: Individual Performance Award
-    posts_number: 0
+    posts_number: 1
     actions: []
     type: section_posts
 seo:
