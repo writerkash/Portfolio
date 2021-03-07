@@ -6,7 +6,7 @@ sections:
     type: section_content
     title: Contact Information
     content: |
-      **Email**: <a href="mailto:jujamakash@gmail.com">jujamakash@gmail.com</a> jujamakash@gmail.com  
+      **Email**: <a href="mailto:jujamakash@gmail.com">jujamakash@gmail.com</a>  
          **Mobile**: +91 91684 65778
   - section_id: contact-form
     type: section_form
