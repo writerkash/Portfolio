@@ -187,5 +187,6 @@ layout: page
     <td> 18. </td>
     <td> OrderGenie, Mumbai </td>
     <td> SDLC Documents</td>
-    <td>MS Word</td></tr>
+    <td>MS Word</td></tr></tbody>
+ </table></div>
 
