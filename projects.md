@@ -184,7 +184,6 @@ layout: page
     <td> Technical Paper</td>
     <td>MS Word</td></tr>
     <tr>
-    <tr>
     <td> 18. </td>
     <td> OrderGenie, Mumbai </td>
     <td> SDLC Documents</td>
