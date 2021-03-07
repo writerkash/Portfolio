@@ -27,7 +27,7 @@ sections:
     content: |
       *  Reading Novels
       Listening Songs
-•	Drawing & Painting
+      Drawing & Painting
 •	Trekking
 •	Photography
 
