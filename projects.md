@@ -162,7 +162,7 @@ layout: page
     <td> 13. </td>
     <td> Reflexis Systems (USA) </td>
     <td> Corporate Administrator’s Guide</td>
-    <td>Git and GitLab, Docsify</td></tr>
+    <td>Confluence</td></tr>
     <tr>
     <tr>
     <td> 1. </td>
