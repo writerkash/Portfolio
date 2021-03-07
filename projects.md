@@ -39,7 +39,7 @@ layout: page
         <th>Company: Technowrites Pvt. Ltd.</th>
         <th>Location: Shivajinagar, Pune</th>
       </tr>
-        <th>March 2018 till date</th>
+        <th>Period: March 2018 till date</th>
         <th>Column 3</th>
       </tr>
     </thead>
