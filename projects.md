@@ -57,10 +57,10 @@ layout: page
 <div class="responsive-table">
   <table>
    <thead>
-      <tr><th>Sr. No.
-      <th>Company</th>
-      <th>Documents worked on</th>
-      <th>Tools used</th></tr>
+        <tr>
+      <th>Month</th>
+      <th>Savings</th>
+    </tr>
     </thead>
   <tbody>
   <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
