@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Projects
       keyName: property
     - name: 'og:description'
       value: Akash Jujam experience summary
