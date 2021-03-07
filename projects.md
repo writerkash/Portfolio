@@ -58,7 +58,7 @@ layout: page
   <table>
    <thead>
       <tr><th>Sr. No.</th>
-      <th>Comparny</th> </tr>
+      <th>Company</th> </tr>
       <tr><th>Period: March 2018 till date</th></tr>
       <tr><th>Designation: Senior Technical Writer</th></tr>
     </thead>
