@@ -69,7 +69,7 @@ layout: page
    <tr>
    <td> 1. </td>
    <td> Alef Edge </td>
-   <td> User Guide (Markdown)<br> (Managed One Writer)</td></tbody>
+   <td> User Guide (Markdown)<br> (Managed One Writer)</td>
    <td>Git and GitLab, Docsify</td></tr>
    <tr>
    <td> 2. </td>
