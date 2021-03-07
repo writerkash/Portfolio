@@ -80,9 +80,7 @@ layout: page
     <td>MS Word</td></tr>
     <td> 3. </td>
     <td> Servocontrols & Hydraulics India Pvt. Ltd. </td>
-    <td><ul><li>Super Admin Guide</li>
-            <li>Delegated Admin Guide</li>
-            <li>Agent Guide</li></ul>(Managed a team of Four Writers)
+    <td>User Guide (Markdown)<br> (Managed One Writer)
    </td>
     <td>MS Word</td></tr>
     <td> 4. </td>
