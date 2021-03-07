@@ -134,8 +134,8 @@ layout: page
    <li><i>Housing for All – A Nation’s Call</i> (The book was inaugurated by the Minister of State (Independent Charge) for Urban Development.)</li> 
    </ul>
    </td>
-    <td>MS Word</td></tr>
-     <tr>
+   <td>MS Word</td></tr>
+   <tr>
 <tr>
     <td> 9. </td>
     <td> Ilantus Technologies (Bangalore) <br>(Two applications) </td>
