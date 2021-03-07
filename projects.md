@@ -160,7 +160,7 @@ layout: page
     <td>MS Word</td></tr>
     <tr>
     <td> 13. </td>
-    <td> Alef Edge </td>
+    <td> Reflexis Systems (USA) </td>
     <td> User Guide (Markdown)<br> (Managed One Writer)</td>
     <td>Git and GitLab, Docsify</td></tr>
     <tr>
