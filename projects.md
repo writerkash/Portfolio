@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: 'Experience Summary'
+subtitle: Experience Summary
 seo:
   title: Theme Style Guide
   description: Akash Jujam experience summary
@@ -29,20 +29,18 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
 <div class="responsive-table">
   <table>
    <thead>
       <tr>
         <th>Company: Technowrites Pvt. Ltd.</th></tr>
-      <tr> <th>Location: Shivajinagar, Pune</th>
-      </tr>
-      <tr>  <th>Period: March 2018 till date</th></tr>
-     <tr>   <th>Designation: Senior Technical Writer</th></tr>
+      <tr> <th>Location: Shivajinagar, Pune</th> </tr>
+      <tr> <th>Period: March 2018 till date</th></tr>
+     <tr> <th>Designation: Senior Technical Writer</th></tr>
     </thead>
     <tbody>
-     <tr>
-        <td style="white-space:nowrap"><b>Responsibilities</b>:  <br><ul>
+   <tr>
+  <td style="white-space:nowrap"><b>Responsibilities</b>:  <br><ul>
   <li>Participating in meetings to understand the requirement.</li>
   <li>Preparing outlines (ToC) and estimating the project for cost and time effort.</li>
   <li>Scheduling meetings for the team and participating in product demos.</li>
@@ -53,9 +51,8 @@ layout: page
  <li> Preparing Minutes of Meeting (MoM). </li>
  <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
 <li> Conducting training lectures.
-</li></ul></td>
-</tbody></table>
-
+</li></ul></tr></td>
+</table>
 
 ## Technowrites Projects Summary
 
