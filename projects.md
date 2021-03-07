@@ -2,7 +2,7 @@
 title: Projects
 subtitle: Experience Summary
  actions:
-      - label: View Projects
+    - label: View Projects
         url: /projects
         style: button
 seo:
