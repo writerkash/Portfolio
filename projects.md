@@ -64,7 +64,6 @@ layout: page
      </tr>
     </thead>
   <tbody>
-  <td ><b>Responsibilities</b>:<ul>
-  <li>Participating in meetings to understand the requirement.</li>
+  
 
  
