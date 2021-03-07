@@ -92,7 +92,7 @@ layout: page
             <li>Algorithm Reference Guide</li>
             <li>Concept Dictionary </li>
             <li>FAQs document </li>
-•	How-to Articles
+            <li>How-to Articles
 •	Learning Content
 •	Product Demo Videos
 
