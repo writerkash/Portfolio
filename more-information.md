@@ -28,8 +28,8 @@ sections:
       *  Reading Novels
       Listening Songs
       Drawing & Painting
-•	Trekking
-•	Photography
+      Trekking
+      Photography
 
     actions: []
     type: section_content
