@@ -172,7 +172,7 @@ layout: page
     <td> 15. </td>
     <td> Gridlogics Technologies Pvt. Ltd. </td>
     <td>User’s Guide</td>
-    <td>Git and GitLab, Docsify</td></tr>
+    <td>MS Word</td></tr>
     <tr>
     <tr>
     <td> 1. </td>
