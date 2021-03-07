@@ -97,11 +97,11 @@ layout: page
    <li>Product Demo Videos</li></ul>
    </td>
     <td><ul> <li>MS Word</li>
-             <li>Confluence </li>
-             <li>Adobe Captivate </li>
-             <li>Adobe Presenter </li>
-             <li>Learnworlds</li>
-             <li>Moodle</li></ul>
+   <li>Confluence </li>
+   <li>Adobe Captivate </li>
+   <li>Adobe Presenter </li>
+   <li>Learnworlds</li>
+   <li>Moodle</li></ul>
     </td></tr>
      <tr>
     <td> 5. </td>
