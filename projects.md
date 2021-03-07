@@ -136,7 +136,7 @@ layout: page
    </td>
    <td>MS Word</td></tr>
    <tr>
-<tr>
+  <tr>
     <td> 9. </td>
     <td> Ilantus Technologies (Bangalore) <br>(Two applications) </td>
     <td><ul><li>Two Administrator’s Guides</li>
