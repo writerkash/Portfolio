@@ -3,7 +3,7 @@ title: Projects
 subtitle: Experience Summary
    
 seo:
-  title: Theme Style Guide
+  title: Projects
   description: Akash Jujam experience summary
   extra:
     - name: 'og:type'
