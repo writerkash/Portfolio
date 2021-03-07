@@ -57,7 +57,7 @@ layout: page
 <div class="responsive-table">
   <table>
    <thead>
-        <tr>
+     <tr>
       <th>Month</th>
       <th>Savings</th>
     </tr>
