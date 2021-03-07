@@ -130,7 +130,7 @@ layout: page
     <td> CREDAI (National) </td>
     <td>Preparing Books,<br>
         <ul><li><i>City Greening </li></i>
-        
+        </ul>
    </td>
     <td>MS Word</td></tr>
      <tr>
