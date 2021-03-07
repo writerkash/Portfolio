@@ -3,7 +3,7 @@ title: More Information
 hide_title: true
 excerpt: More information
 sections:
-  - title: lorem-ipsum
+  - title: Individual Performance Award
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
