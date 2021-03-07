@@ -26,7 +26,7 @@ sections:
     image_alt: hobbies
     content: |
       *  Reading Novels
-•	Listening Songs
+      Listening Songs
 •	Drawing & Painting
 •	Trekking
 •	Photography
