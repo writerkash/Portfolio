@@ -138,7 +138,7 @@ layout: page
      <tr>
 <tr>
     <td> 9. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
+    <td> Ilantus Technologies (Bangalore) </td>
     <td><ul><li>Two Administrator’s Guides</li>
             <li>Delegated Admin Guide</li>
             <li>Agent Guide</li></ul>(Managed a team of Four Writers)
