@@ -78,67 +78,14 @@ layout: page
             <li>Agent Guide</li></ul>(Managed a team of Four Writers)
    </td>
     <td>MS Word</td></tr>
-    <td> 3. </td>
-    <td> Servocontrols & Hydraulics India Pvt. Ltd. </td>
-    <td>User Manual for Jammer System <br> (Managed a team of Three Writers)</td>
-    <td>MS Word</td></tr>
-    <td> 4. </td>
-    <td> Rubiscape Pvt. Ltd.</td>
-    <td><ul><li>Super Admin Guide</li>
-            <li>Delegated Admin Guide</li>
-            <li>Agent Guide</li></ul>(Managed a team of Four Writers)
-   </td>
-    <td>MS Word</td></tr>
-    <td> 5. </td>
+    <td> 2. </td>
     <td> Spring Computing Technologies Pvt. Ltd. </td>
     <td><ul><li>Super Admin Guide</li>
             <li>Delegated Admin Guide</li>
             <li>Agent Guide</li></ul>(Managed a team of Four Writers)
    </td>
     <td>MS Word</td></tr>
-    <td> 6. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
-    <td><ul><li>Super Admin Guide</li>
-            <li>Delegated Admin Guide</li>
-            <li>Agent Guide</li></ul>(Managed a team of Four Writers)
-   </td>
-    <td>MS Word</td></tr>
-    <td> 7. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
-    <td><ul><li>Super Admin Guide</li>
-            <li>Delegated Admin Guide</li>
-            <li>Agent Guide</li></ul>(Managed a team of Four Writers)
-   </td>
-    <td>MS Word</td></tr>
-    <td> 8. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
-    <td><ul><li>Super Admin Guide</li>
-            <li>Delegated Admin Guide</li>
-            <li>Agent Guide</li></ul>(Managed a team of Four Writers)
-   </td>
-    <td>MS Word</td></tr>
-    <td> 9. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
-    <td><ul><li>Super Admin Guide</li>
-            <li>Delegated Admin Guide</li>
-            <li>Agent Guide</li></ul>(Managed a team of Four Writers)
-   </td>
-    <td>MS Word</td></tr>
-    <td> 10. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
-    <td><ul><li>Super Admin Guide</li>
-            <li>Delegated Admin Guide</li>
-            <li>Agent Guide</li></ul>(Managed a team of Four Writers)
-   </td>
-    <td>MS Word</td></tr>
-    <td> 11. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
-    <td><ul><li>Super Admin Guide</li>
-            <li>Delegated Admin Guide</li>
-            <li>Agent Guide</li></ul>(Managed a team of Four Writers)
-   </td>
-    <td>MS Word</td></tr>
-    <td> 12. </td>
+    <td> 2. </td>
     <td> Spring Computing Technologies Pvt. Ltd. </td>
     <td><ul><li>Super Admin Guide</li>
             <li>Delegated Admin Guide</li>
