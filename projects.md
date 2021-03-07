@@ -99,6 +99,7 @@ layout: page
     <td><ul> <li>MS Word</li>
              <li>Confluence </li>
              <li>Adobe Captivate </li>
+             <li>Adobe Presenter </li>
              <li>
     </td></tr>
     
