@@ -77,7 +77,7 @@ layout: page
             <li>Delegated Admin Guide</li>
             <li>Agent Guide</li></ul>(Managed a team of Four Writers)
    </td>
-    <td>Git and GitLab, Docsify</td></tr>
+    <td>MS Word</td></tr>
   
 
  
