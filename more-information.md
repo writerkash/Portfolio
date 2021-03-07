@@ -1,5 +1,5 @@
 ---
-title: morew
+title: More Information
 hide_title: true
 excerpt: lorem-ipsum
 sections: []
