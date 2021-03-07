@@ -91,7 +91,7 @@ layout: page
             <li>Administrator’s Guide</li>
             <li>Algorithm Reference Guide</li>
             <li>Concept Dictionary </li>
-            <li>FAQs document </>
+            <li>FAQs document </li>
 •	How-to Articles
 •	Learning Content
 •	Product Demo Videos
