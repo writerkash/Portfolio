@@ -105,7 +105,7 @@ layout: page
     </td></tr>
      <tr>
     <td> 5. </td>
-    <td> Servocontrols & Hydraulics India Pvt. Ltd. </td>
+    <td> Giesecke+Devrient </td>
     <td>User Manual for Jammer System <br> (Managed a team of Three Writers)
    </td>
     <td>MS Word</td></tr>
