@@ -178,7 +178,7 @@ layout: page
     <td> 16. </td>
     <td> Bristlecone, Pune (On-site </td>
     <td> Expression of Interest (EOI) (MH-Cyber)</td>
-    <td>MS Word</td></tr></table>
+    <td>MS Word</td></tr>
     <tr>
     <td> 17. </td>
     <td> SMR Automotive Systems India Ltd. </td>
