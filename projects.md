@@ -126,7 +126,6 @@ layout: page
    </td>
    <td>MS Word</td></tr>
    <tr>
-  <tr>
    <td> 8. </td>
    <td> CREDAI (National) </td>
    <td>Preparing Books,<br>
