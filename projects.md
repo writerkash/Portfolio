@@ -65,7 +65,7 @@ layout: page
      </tr>
     </thead>
   <tbody>
-    <td> 1. <td>
+    <td> 1. </td>
     <td> Alef Edge </td>
     <td> User Guide (Markdown)
   
