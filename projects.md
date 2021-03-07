@@ -155,7 +155,7 @@ layout: page
     <td>MS Word</td></tr>
     <tr>
     <td> 12. </td>
-    <td> Alef Edge </td>
+    <td> Gospell Digital Technology Co., Ltd. (Mumbai) </td>
     <td> User Guide (Markdown)<br> (Managed One Writer)</td>
     <td>Git and GitLab, Docsify</td></tr>
     <tr>
