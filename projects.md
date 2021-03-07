@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: Projects
     - name: 'twitter:description'
       value: Akash Jujam experience summary
     - name: 'twitter:image'
