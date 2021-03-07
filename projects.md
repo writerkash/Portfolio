@@ -77,7 +77,7 @@ layout: page
             <li>Delegated Admin Guide</li>
             <li>Agent Guide</li>
 (Managed a team of Four Writers)
-</td>
+   </td>
     <td>Git and GitLab, Docsify</td></tr>
   
 
