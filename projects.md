@@ -112,7 +112,6 @@ layout: page
     <td><ul><li>MS Word</li>
    <li>Oxygen XML Editor</li></ul></td></tr>
    <tr>
-   <tr>
    <td> 6. </td>
    <td> TÜV SÜD </td>
    <td>White Paper
