@@ -47,6 +47,7 @@ layout: page
       <tr>
         <td><b>Responsibilities &nbsp;</b>:  <br><ul>
   <li>Participating in meetings to understand the requirement.</li>
+  <td>&nbsp;</td>
   <li>Tea</li>
   <li>Milk</li>
 </ul></td>
