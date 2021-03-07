@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: about
     type: section_content
-    title: About
+    title: Contact Information
     content: >
       I am a bachelor of Electronics and 
   - section_id: contact-form
