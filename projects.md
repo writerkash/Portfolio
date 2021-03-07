@@ -73,7 +73,11 @@ layout: page
     <tr>
     <td> 2. </td>
     <td> Spring Computing Technologies Pvt. Ltd. </td>
-    <td> User Guide (Markdown)<br> (Managed One Writer)</td>
+    <td> •	Super Admin Guide
+•	Delegated Admin Guide
+•	Agent Guide
+(Managed a team of Four Writers)
+</td>
     <td>Git and GitLab, Docsify</td></tr>
   
 
