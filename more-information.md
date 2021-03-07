@@ -1,7 +1,6 @@
 ---
 title: More Information
 hide_title: false
-excerpt: lorem-ipsum
 sections: []
 seo:
   title: ''
