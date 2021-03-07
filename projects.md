@@ -148,7 +148,7 @@ layout: page
     <td> 10. </td>
     <td> RP Consultants </td>
     <td> Website Content</td>
-    <td>Git and GitLab, Docsify</td></tr>
+    <td>MS Word</td></tr>
     <tr>
     <tr>
     <td> 1. </td>
