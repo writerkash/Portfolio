@@ -6,7 +6,7 @@ sections:
     section_id: performance award
     image_alt: performance award
     content: >-
-     - Migrated the entire team to Microsoft 365 and trained the team.   
+     - Migrated the entire team to Microsoft 365 and trained the team.  
      - Edited and published a book on Amazon.in
 
     actions: []
