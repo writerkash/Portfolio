@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
-layout: page
+layout: advanced
 ---
 <div class="responsive-table">
   <table>
