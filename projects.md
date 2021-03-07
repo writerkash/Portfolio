@@ -33,8 +33,7 @@ layout: page
 
 <div class="responsive-table">
   <table>
-    <caption>Simple table with caption and header</caption>
-    <thead>
+   <thead>
       <tr>
         <th>Company: Technowrites Pvt. Ltd.</th></tr>
       <tr> <th>Location: Shivajinagar, Pune</th>
