@@ -17,7 +17,6 @@ sections:
     content: >
       *   Conducted Webinars.
 
-
       *   Conducted training lectures at Fergusson College and Technowrites.
 
 
