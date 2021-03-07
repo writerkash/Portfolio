@@ -8,5 +8,5 @@ sections:
     content: >
       - Migrated the entire team to Microsoft 365 and trained the team.
       - Edited and published a book on Amazon.in
-
+layout: advanced
 ---
