@@ -101,7 +101,7 @@ layout: page
              <li>Adobe Captivate </li>
              <li>Adobe Presenter </li>
              <li>Learnworlds</li>
-             <li>Moodle</li>
+             <li>Moodle</li></ul>
     </td></tr>
     
   
