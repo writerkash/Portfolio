@@ -55,7 +55,7 @@ layout: page
  <li> Preparing Minutes of Meeting (MoM). </li>
  <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
 <li> Conducting training lectures.
-</li>
+</li></>
   <td></td>
   
 </ul></td>
