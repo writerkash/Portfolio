@@ -59,7 +59,7 @@ layout: page
    <thead>
      <tr>
       <th>Sr. No.</th>
-      <th>Savings</th>
+      <th>Company</th>
      </tr>
     </thead>
   <tbody>
