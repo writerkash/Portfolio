@@ -25,8 +25,12 @@ sections:
     section_id: hobbies
     image_alt: hobbies
     content: |
-      *   Migrated the entire team to Microsoft 365 and trained the team.
-      *   Edited and published a book on Amazon.in
+      *   •	Reading Novels
+•	Listening Songs
+•	Drawing & Painting
+•	Trekking
+•	Photography
+
     actions: []
     type: section_content
 seo:
