@@ -171,7 +171,7 @@ layout: page
     <tr>
     <td> 15. </td>
     <td> Gridlogics Technologies Pvt. Ltd. </td>
-    <td> User Guide (Markdown)<br> (Managed One Writer)</td>
+    <td>User’s Guide</td>
     <td>Git and GitLab, Docsify</td></tr>
     <tr>
     <tr>
