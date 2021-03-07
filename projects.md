@@ -37,7 +37,7 @@ layout: page
     <thead>
       <tr>
         <th>Company: Technowrites Pvt. Ltd.</th>
-        <th>Column 2</th>
+        <th>Location: Shivajinagar, Pune</th>
       </tr>
         <th>Column 3</th>
         <th>Column 3</th>
