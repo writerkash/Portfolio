@@ -49,7 +49,7 @@ layout: page
  <li> Preparing Minutes of Meeting (MoM). </li>
  <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
 <li> Conducting training lectures.
-</li></ul></td>
+</li></ul></td> </tbody>
 </table>
 
 ## Technowrites Projects Summary
