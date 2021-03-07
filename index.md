@@ -9,7 +9,6 @@ sections:
       Writing is my passion, and the love for documentation keeps me going!
     actions: []
   - section_id: about
-  - section_id: about
     type: section_content
     title: About
     content: >
