@@ -45,7 +45,7 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td><b>Responsibilities:  <br><ul>
+        <td><b>Responsibilities</b>:  <br><ul>
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
