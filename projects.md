@@ -169,7 +169,7 @@ layout: page
     <td> Administrator’s Guide</td>
     <td>MS Word</td></tr>
     <tr>
-    <td> 1. </td>
+    <td> 15. </td>
     <td> Alef Edge </td>
     <td> User Guide (Markdown)<br> (Managed One Writer)</td>
     <td>Git and GitLab, Docsify</td></tr>
