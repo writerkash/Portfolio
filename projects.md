@@ -188,7 +188,8 @@ layout: page
     <td> OrderGenie, Mumbai </td>
     <td> SDLC Documents</td>
     <td>MS Word</td></tr>
----    
+---
+Title    
  actions:
     - label: View Projects
         url: /projects
