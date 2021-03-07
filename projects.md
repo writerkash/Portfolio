@@ -51,7 +51,7 @@ layout: page
   <li>Managing projects and a team of writers.</li>
   <li>Having status update meetings and prioritize work.</li>
   <li>Working on multiple projects at a time and completing the tasks within a deadline.</li>
- <li> Writing and Reviewing the documents for language, style, and consistency.
+ <li> Writing and Reviewing the documents for language, style, and consistency. <>
 •	Preparing Minutes of Meeting (MoM).
 •	Preparing in-house documentation, training material, PowerPoint presentations.
 •	Conducting training lectures.
