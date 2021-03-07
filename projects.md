@@ -165,7 +165,7 @@ layout: page
     <td>Confluence</td></tr>
     <tr>
     <td> 14. </td>
-    <td> Alef Edge </td>
+    <td> Fine IT Solutions (India) Pvt. Ltd. </td>
     <td> User Guide (Markdown)<br> (Managed One Writer)</td>
     <td>Git and GitLab, Docsify</td></tr>
     <tr>
