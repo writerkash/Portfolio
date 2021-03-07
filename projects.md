@@ -177,7 +177,7 @@ layout: page
     <td> 16. </td>
     <td> Bristlecone, Pune (On-site </td>
     <td> Expression of Interest (EOI) (MH-Cyber)</td>
-    <td>Git and GitLab, Docsify</td></tr>
+    <td>MS Word</td></tr>
     <tr>
     <tr>
     <td> 1. </td>
