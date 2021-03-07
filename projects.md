@@ -106,7 +106,7 @@ layout: page
      <tr>
     <td> 5. </td>
     <td> Giesecke+Devrient </td>
-    <td>User Manual for Jammer System <br> (Managed a team of Three Writers)
+    <td>DITA source files to generate required outputs— PDF or Help File (chm)
    </td>
     <td>MS Word</td></tr>
      <tr>
