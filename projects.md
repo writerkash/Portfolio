@@ -187,6 +187,6 @@ layout: page
     <tr>
     <td> 18. </td>
     <td> OrderGenie, Mumbai </td>
-    <td> User Guide (Markdown)<br> (Managed One Writer)</td>
+    <td> SDLC Documents</td>
     <td>Git and GitLab, Docsify</td></tr>
     <tr>
