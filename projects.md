@@ -46,7 +46,7 @@ layout: page
      <tr>
         <td style="white-space:nowrap"><b>Responsibilities</b>:  <br><ul>
   <li>Participating in meetings to understand the requirement.</li>&nbsp;
-  <td></td>
+  
   
 </ul></td>
       </tr>
