@@ -64,7 +64,7 @@ layout: page
       <th>Documents worked on</th>
       <th> Tools used </th>
      </tr>
-    </thead></table>
+    </thead>
   <tbody>
    <tr>
    <td> 1. </td>
