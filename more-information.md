@@ -11,7 +11,7 @@ sections:
       *   Edited and published a book on Amazon.in
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Extra Curriculum Activities
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
