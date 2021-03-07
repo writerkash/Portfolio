@@ -112,12 +112,12 @@ layout: page
    <li>Oxygen XML Editor</li></ul></td></tr>
    <tr>
    <tr>
-    <td> 6. </td>
-    <td> TÜV SÜD </td>
-    <td>White Paper
+   <td> 6. </td>
+   <td> TÜV SÜD </td>
+   <td>White Paper
    </td>
-    <td>MS Word</td></tr>
-     <tr>
+   <td>MS Word</td></tr>
+   <tr>
  <tr>
     <td> 7. </td>
     <td> Mahindra Tsubaki Conveyor Systems Private Limited </td>
