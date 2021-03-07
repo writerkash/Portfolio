@@ -161,7 +161,7 @@ layout: page
     <tr>
     <td> 13. </td>
     <td> Reflexis Systems (USA) </td>
-    <td> User Guide (Markdown)<br> (Managed One Writer)</td>
+    <td> Corporate Administrator’s Guide)</td>
     <td>Git and GitLab, Docsify</td></tr>
     <tr>
     <tr>
