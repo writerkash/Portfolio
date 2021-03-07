@@ -87,7 +87,15 @@ layout: page
      <tr>
     <td> 4. </td>
     <td> SRubiscape Pvt. Ltd.</td>
-    <td>User Manual for Jammer System <br> (Managed a team of Three Writers)
+    <td>•	User’s Guide
+•	Administrator’s Guide
+•	Algorithm Reference Guide
+•	Concept Dictionary
+•	FAQs document
+•	How-to Articles
+•	Learning Content
+•	Product Demo Videos
+
    </td>
     <td>MS Word</td></tr>
     
