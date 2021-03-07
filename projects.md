@@ -119,8 +119,8 @@ layout: page
     <td>MS Word</td></tr>
      <tr>
  <tr>
-    <td> 6. </td>
-    <td> TÜV SÜD </td>
+    <td> 7. </td>
+    <td> Mahindra Tsubaki Conveyor Systems Private Limited </td>
     <td>White Paper
    </td>
     <td>MS Word</td></tr>
