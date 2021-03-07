@@ -1,7 +1,7 @@
 ---
 title: Projects
 subtitle: Experience Summary
-actions:
+        actions:
    - label: View Projects
     url: /projects
    style: button
