@@ -109,7 +109,7 @@ layout: page
     <td>DITA source files to generate required outputs— PDF or Help File (chm)
    </td>
     <td><ul><li>MS Word</li>
-             <li>Moodle</li></ul></td></tr>
+             <li>Ex</li></ul></td></tr>
      <tr>
   
 
