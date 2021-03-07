@@ -3,14 +3,14 @@ title: Projects
 subtitle: Experience Summary
    
 seo:
-  title: Theme Style Guide
+  title: Projects
   description: Akash Jujam experience summary
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Projects
       keyName: property
     - name: 'og:description'
       value: Akash Jujam experience summary
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: Projects
     - name: 'twitter:description'
       value: Akash Jujam experience summary
     - name: 'twitter:image'
