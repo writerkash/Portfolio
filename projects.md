@@ -108,7 +108,7 @@ layout: page
     <td> Giesecke+Devrient </td>
     <td>DITA source files to generate required outputs— PDF or Help File (chm)
    </td>
-    <td><><li>Learnworlds</li>
+    <td><ul><li>Learnworlds</li>
              <li>Moodle</li></ul></td></tr>
      <tr>
   
