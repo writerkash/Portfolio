@@ -2,6 +2,11 @@
 title: Contact
 hide_title: false
 sections:
+- section_id: about
+    type: section_content
+    title: About
+    content: >
+      I am a bachelor of Electronics and 
   - section_id: contact-form
     type: section_form
     content: To get in touch please fill the form below.
