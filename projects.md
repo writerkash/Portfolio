@@ -50,6 +50,7 @@ layout: page
   <li>Tea</li>
   <li>Milk</li>
 </ul></td>
+<td>
       </tr>
     </tbody>
   </table>
