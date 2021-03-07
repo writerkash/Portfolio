@@ -17,7 +17,7 @@ sections:
     content: >
       *   Conducted **Webinars**.
 
-      *   Conducted **training lectures** at** Fergusson College** and
+      *   Conducted **training lectures** at **Fergusson College** and
       **Technowrites**.
 
       *   Participated in the **STC India National conference** held in
