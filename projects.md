@@ -38,7 +38,7 @@ layout: page
       <tr><th>Designation: Senior Technical Writer</th></tr>
     </thead>
   <tbody>
-   <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
+  <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
   <li>Participating in meetings to understand the requirement.</li>
   <li>Preparing outlines (ToC) and estimating the project for cost and time effort.</li>
   <li>Scheduling meetings for the team and participating in product demos.</li>
