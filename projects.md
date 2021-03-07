@@ -190,4 +190,4 @@ layout: page
 ### Other Experiences Summary
 Worked as a Marketing Executive at Technowrites Pvt. Ltd. from February 2017 to February 2018.
 
-<a href= /about> "More Information" </>
+<a href= /about> "More Information" </a>
