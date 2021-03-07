@@ -188,5 +188,5 @@ layout: page
     <td> 18. </td>
     <td> OrderGenie, Mumbai </td>
     <td> SDLC Documents</td>
-    <td>Git and GitLab, Docsify</td></tr>
+    <td>MS Word</td></tr>
     <tr>
