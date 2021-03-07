@@ -66,7 +66,7 @@ layout: page
     </thead>
   <tbody>
   <td> 1. <td>
-  <td> Alef Edge <>
+  <td> Alef Edge </td>
   
 
  
