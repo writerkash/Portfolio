@@ -58,7 +58,7 @@ layout: page
   <table>
    <thead>
      <tr>
-      <th>Month</th>
+      <th>Sr. No.</th>
       <th>Savings</th>
      </tr>
     </thead>
