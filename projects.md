@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: 'Experience Summary: '
+subtitle: 'Experience Summary'
 seo:
   title: Theme Style Guide
   description: Akash Jujam experience summary
