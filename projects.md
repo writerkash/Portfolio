@@ -67,7 +67,7 @@ layout: page
   <tbody>
     <td> 1. </td>
     <td> Alef Edge </td>
-    <td> User Guide (Markdown) (Managed One Writer)</td>
+    <td> User Guide (Markdown)<br> (Managed One Writer)</td>
   
 
  
