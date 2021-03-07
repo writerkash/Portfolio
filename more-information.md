@@ -21,7 +21,7 @@ sections:
       Participated in various webinars held by the STC India.
     actions: []
     type: section_content
-- title: Individual Performance Award
+- title: Hobbies
     section_id: performance award
     image_alt: performance award
     content: |
