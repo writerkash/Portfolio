@@ -54,6 +54,18 @@ layout: page
 
 ## Technowrites Projects Summary
 
+<div class="responsive-table">
+  <table>
+   <thead>
+      <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
+      <tr><th>Location: Shivajinagar, Pune</th> </tr>
+      <tr><th>Period: March 2018 till date</th></tr>
+      <tr><th>Designation: Senior Technical Writer</th></tr>
+    </thead>
+  <tbody>
+  <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
+  <li>Participating in meetings to understand the requirement.</li>
+
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
 # This is an H1
