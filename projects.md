@@ -113,7 +113,7 @@ layout: page
      <tr>
    <tr>
     <td> 6. </td>
-    <td> Giesecke+Devrient </td>
+    <td> TÜV SÜD </td>
     <td>DITA source files to generate required outputs— PDF or Help File (chm)
    </td>
     <td>MS Word</td></tr>
