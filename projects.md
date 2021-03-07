@@ -114,7 +114,7 @@ layout: page
    <tr>
     <td> 6. </td>
     <td> TÜV SÜD </td>
-    <td>DITA source files to generate required outputs— PDF or Help File (chm)
+    <td>White Paper
    </td>
     <td>MS Word</td></tr>
      <tr>
