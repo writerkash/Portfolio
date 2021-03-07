@@ -30,7 +30,7 @@ sections:
       *   Participated in various **webinars** held by the **STC India**.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Hobbies
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
