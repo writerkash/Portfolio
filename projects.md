@@ -32,7 +32,7 @@ layout: page
 ## Tables
 
 <div class="responsive-table">
-  <table style="width:200px">
+  <table style="width:500px">
     <caption>Simple table with caption and header</caption>
     <thead>
       <tr>
