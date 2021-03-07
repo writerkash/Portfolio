@@ -35,13 +35,9 @@ sections:
     image_alt: lorem-ipsum
     content: |
       *   Reading Novels
-
       *   Listening Songs
-
       *   Drawing & Painting
-
       *   Trekking
-
       *   Photography
     actions: []
     type: section_content
