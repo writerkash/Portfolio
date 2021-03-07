@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Feedback
-          - Know more about your work
+          - Know more about my work
           - Other
       - input_type: textarea
         name: message
