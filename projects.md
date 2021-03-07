@@ -56,8 +56,6 @@ layout: page
  <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
 <li> Conducting training lectures.
 </li>
-  <li>Participating in meetings to understand the requirement.</li>
-  <li>Participating in meetings to understand the requirement.</li>
   <td></td>
   
 </ul></td>
