@@ -121,7 +121,7 @@ layout: page
  <tr>
     <td> 7. </td>
     <td> Mahindra Tsubaki Conveyor Systems Private Limited </td>
-    <td>White Paper
+    <td>Seven User Manuals for various equipment
    </td>
     <td>MS Word</td></tr>
      <tr>
