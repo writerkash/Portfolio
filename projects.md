@@ -93,9 +93,8 @@ layout: page
             <li>Concept Dictionary </li>
             <li>FAQs document </li>
             <li>How-to Articles </li>
-            
-•	Learning Content
-•	Product Demo Videos
+            <li>Learning Content </li>
+            <li>	Product Demo Videos
 
    </td>
     <td>MS Word</td></tr>
