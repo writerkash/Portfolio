@@ -144,7 +144,6 @@ layout: page
    </td>
     <td>MS Word</td></tr>
     <tr>
-    <tr>
     <td> 10. </td>
     <td> RP Consultants </td>
     <td> Website Content</td>
