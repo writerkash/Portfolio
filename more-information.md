@@ -27,7 +27,7 @@ sections:
       *   Participated in various **regional conferences** held by the **STC
       India**.
 
-      *   Participated in various **webinars **held by the **STC India**.
+      *   Participated in various **webinars** held by the **STC India**.
     actions: []
     type: section_content
   - title: lorem-ipsum
