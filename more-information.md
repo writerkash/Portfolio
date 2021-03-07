@@ -12,7 +12,7 @@ sections:
     type: section_content
 - title: Extra Curriculum Activities
     section_id: curriculum activities
-    image_alt: performance award
+    image_alt: curriculum activities
     content: |
       *   Migrated the entire team to Microsoft 365 and trained the team.
       *   Edited and published a book on Amazon.in
