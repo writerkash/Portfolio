@@ -152,7 +152,7 @@ layout: page
     <td> 11. </td>
     <td> IntelliVision, Pune (On-site) </td>
     <td> API Guides and User’s Guide)</td>
-    <td>Git and GitLab, Docsify</td></tr>
+    <td>MS Wor</td></tr>
     <tr>
     <tr>
     <td> 1. </td>
