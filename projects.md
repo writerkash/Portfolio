@@ -138,7 +138,7 @@ layout: page
      <tr>
 <tr>
     <td> 9. </td>
-    <td> Ilantus Technologies (Bangalore) <br> </td>
+    <td> Ilantus Technologies (Bangalore) <br>(Two applications) </td>
     <td><ul><li>Two Administrator’s Guides</li>
             <li>Two User’s Guides</li></ul>
    </td>
