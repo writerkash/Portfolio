@@ -83,18 +83,18 @@ layout: page
    <td> Servocontrols & Hydraulics India Pvt. Ltd. </td>
    <td>User Manual for Jammer System <br> (Managed a team of Three Writers)
    </td>
-    <td>MS Word</td></tr>
-     <tr>
-    <td> 4. </td>
-    <td> Rubiscape Pvt. Ltd.</td>
-    <td><ul><li>User’s Guide</li>
-            <li>Administrator’s Guide</li>
-            <li>Algorithm Reference Guide</li>
-            <li>Concept Dictionary </li>
-            <li>FAQs document </li>
-            <li>How-to Articles </li>
-            <li>Learning Content </li>
-            <li>Product Demo Videos</li></ul>
+   <td>MS Word</td></tr>
+   <tr>
+   <td> 4. </td>
+   <td> Rubiscape Pvt. Ltd.</td>
+   <td><ul><li>User’s Guide</li>
+   <li>Administrator’s Guide</li>
+   <li>Algorithm Reference Guide</li>
+   <li>Concept Dictionary </li>
+    <li>FAQs document </li>
+   <li>How-to Articles </li>
+   <li>Learning Content </li>
+   <li>Product Demo Videos</li></ul>
    </td>
     <td><ul> <li>MS Word</li>
              <li>Confluence </li>
