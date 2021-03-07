@@ -44,7 +44,7 @@ layout: page
       </tr>
     </thead>
     <tbody>
-      <tr>
+     tr>
         <td style="white-space:nowrap"><b>Responsibilities</b>:  <br><ul>
   <li>Participating in meetings to understand the requirement.</li>&nbsp;
   <td>&nbsp;</td>
