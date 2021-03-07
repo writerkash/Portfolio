@@ -1,6 +1,10 @@
 ---
 title: Projects
 subtitle: Experience Summary
+ actions:
+      - label: View Projects
+        url: /projects
+        style: button
 seo:
   title: Theme Style Guide
   description: Akash Jujam experience summary
