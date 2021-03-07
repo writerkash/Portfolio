@@ -54,7 +54,7 @@ footer:
   content: '&copy; 2021 Akash Jujam. All rights reserved.'
   links:
     - label: home
-      url: '#'
+      url: /
       style: link
       icon_class: dev
       new_window: false
