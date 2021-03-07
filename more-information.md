@@ -14,17 +14,21 @@ sections:
   - title: Extra Curriculum Activities
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      *   Conducted Webinars.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Conducted training lectures at Fergusson College and Technowrites.
 
 
-      - Lorem ipsum
+      *   Participated in the STC India National conference held in December
+      2018 in Mumbai, December 2019 in Chennai, December 2020 (Virtual).
 
-      - dolor sit amet
+
+      *   Participated in various regional conferences held by the STC India.
+
+
+      *   Participated in various webinars held by the STC India.
     actions: []
     type: section_content
   - title: lorem-ipsum
