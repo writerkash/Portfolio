@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 layout_style: overflow
-palette: green
+palette: blue
 header:
   title: Akash Vijay Jujam
   tagline: Docs for Life!
