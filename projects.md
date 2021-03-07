@@ -79,7 +79,7 @@ layout: page
    </td>
     <td>MS Word</td></tr>
     <td> 3. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
+    <td> Servocontrols & Hydraulics India Pvt. Ltd. </td>
     <td><ul><li>Super Admin Guide</li>
             <li>Delegated Admin Guide</li>
             <li>Agent Guide</li></ul>(Managed a team of Four Writers)
