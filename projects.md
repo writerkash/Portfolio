@@ -176,7 +176,7 @@ layout: page
     <tr>
     <td> 16. </td>
     <td> Bristlecone, Pune (On-site </td>
-    <td> User Guide (Markdown)<br> (Managed One Writer)</td>
+    <td> Expression of Interest (EOI) (MH-Cyber)</td>
     <td>Git and GitLab, Docsify</td></tr>
     <tr>
     <tr>
