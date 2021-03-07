@@ -96,7 +96,7 @@ layout: page
             <li>Learning Content </li>
             <li>Product Demo Videos</li></ul>
    </td>
-       <td><ul> <li>MS Word</li>
+    <td><ul> <li>MS Word</li>
     </td></tr>
     
   
