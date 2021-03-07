@@ -45,11 +45,11 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td style="white-space:nowrap> </td><b>Responsibilities </b>:  <br><ul>
-      <li>Participating in meetings to understand the requirement.</li>
-     <li>Tea</li>
-      <li>Milk</li>
-      </ul></td>
+        <tdstyle="white-space:nowrap><b>Responsibilities</b>:  <br><ul>
+  <li>Participating in meetings to understand the requirement.</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul></td>
       </tr>
     </tbody>
   </table>
