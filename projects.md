@@ -3,7 +3,7 @@ title: Projects
 subtitle: Experience Summary
     actions:
        - label: View Projects
-       url: /projects
+       url: /
        style: button
 seo:
   title: Theme Style Guide
