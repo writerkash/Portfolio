@@ -45,7 +45,7 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Row 1, Cell 1 <br> responsibilities</td>
+        <td>Row 1, Cell 1 <br><list> responsibilities</td>
       </tr>
       <tr>
         <td>Row 2, Cell 1</td>
