@@ -40,7 +40,7 @@ layout: page
         <th>Location: Shivajinagar, Pune</th>
       </tr>
         <th>Period: March 2018 till date</th>
-        <th>Column 3</th>
+        <th>Designation: Senior Technical Writer</th>
       </tr>
     </thead>
     <tbody>
