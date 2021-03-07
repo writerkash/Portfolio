@@ -94,7 +94,7 @@ layout: page
             <li>FAQs document </li>
             <li>How-to Articles </li>
             <li>Learning Content </li>
-            <li>Product Demo Videos</li>
+            <li>Product Demo Videos</li></ul>
 
    </td>
     <td>MS Word</td></tr>
