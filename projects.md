@@ -127,7 +127,7 @@ layout: page
      <tr>
   <tr>
     <td> 8. </td>
-    <td> Mahindra Tsubaki Conveyor Systems Private Limited </td>
+    <td> CREDAI (National) </td>
     <td>Seven User Manuals for various equipment
    </td>
     <td>MS Word</td></tr>
