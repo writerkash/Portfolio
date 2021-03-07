@@ -18,7 +18,14 @@ sections:
       *   Edited and published a book on Amazon.in
     actions: []
     type: section_content
-
+- title: Individual Performance Award
+    section_id: performance award
+    image_alt: performance award
+    content: |
+      *   Migrated the entire team to Microsoft 365 and trained the team.
+      *   Edited and published a book on Amazon.in
+    actions: []
+    type: section_content
 seo:
   title: ''
   description: ''
