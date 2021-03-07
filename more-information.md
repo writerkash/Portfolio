@@ -10,7 +10,7 @@ sections:
       *   Edited and published a book on Amazon.in
     actions: []
     type: section_content
-- title: Extra Curri
+- title: Extra Curriculum Activities
     section_id: performance award
     image_alt: performance award
     content: |
