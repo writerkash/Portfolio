@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: Individual Performance Award
     section_id: performance award
-    image_alt: lorem-ipsum
+    image_alt: performance award
     content: >-
       ## Lorem ipsum
 
