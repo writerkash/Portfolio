@@ -187,5 +187,6 @@ layout: page
     <td>MS Word</td></tr></tbody>
  </table></div>
 
-### Other Experiences
+### Other Experiences Summary
+Worked as a Marketing Executive at Technowrites Pvt. Ltd. from February 2017 to February 2018.
 
