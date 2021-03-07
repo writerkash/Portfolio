@@ -111,6 +111,13 @@ layout: page
     <td><ul><li>MS Word</li>
              <li>Oxygen XML Editor</li></ul></td></tr>
      <tr>
-  
+   <tr>
+    <td> 5. </td>
+    <td> Giesecke+Devrient </td>
+    <td>DITA source files to generate required outputs— PDF or Help File (chm)
+   </td>
+    <td><ul><li>MS Word</li>
+             <li>Oxygen XML Editor</li></ul></td></tr>
+     <tr>
 
  
