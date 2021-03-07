@@ -164,7 +164,6 @@ layout: page
     <td> Corporate Administrator’s Guide</td>
     <td>Confluence</td></tr>
     <tr>
-    <tr>
     <td> 1. </td>
     <td> Alef Edge </td>
     <td> User Guide (Markdown)<br> (Managed One Writer)</td>
