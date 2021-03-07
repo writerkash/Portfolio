@@ -157,7 +157,7 @@ layout: page
     <td> 12. </td>
     <td> Gospell Digital Technology Co., Ltd. (Mumbai) </td>
     <td> User’s Guide and two Administrator’s Guides</td>
-    <td>Git and GitLab, Docsify</td></tr>
+    <td>MS Word</td></tr>
     <tr>
     <tr>
     <td> 1. </td>
