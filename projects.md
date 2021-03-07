@@ -57,7 +57,7 @@ layout: page
 <div class="responsive-table">
   <table>
    <thead>
-      <tr><th>Sr. No.</th>
+      <tr><th>Sr. No.
       <th>Company</th>
       <th>Documents worked on</th>
       <th>Tools used</th></tr>
