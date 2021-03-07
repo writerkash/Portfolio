@@ -60,7 +60,7 @@ layout: page
      <tr>
       <th>Month</th>
       <th>Savings</th>
-    </tr>
+     </tr>
     </thead>
   <tbody>
   <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
