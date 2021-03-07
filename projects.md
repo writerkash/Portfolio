@@ -151,7 +151,7 @@ layout: page
     <tr>
     <td> 11. </td>
     <td> IntelliVision, Pune (On-site) </td>
-    <td> API Guides and User’s Guide)</td>
+    <td> API Guides and User’s Guide</td>
     <td>MS Word</td></tr>
     <tr>
     <td> 12. </td>
