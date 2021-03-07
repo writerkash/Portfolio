@@ -45,6 +45,6 @@ I have worked extensively for **Software** as well as **Mechanical** domain. I h
 *   SOPs
 *   Expression of Interest (EOI)
 
-I have also worked on creative content for a Website and CREDAI. I have worked on projects as a **Technical Writer**, **Senior Technical Writer**, or **Project Manager**. I have conducted **training lectures** for **Technowrites** and **Fergusson** students in **MS Word** and **Adobe RoboHelp**.
+I have also worked on creative content for a Website and CREDAI. I have worked on projects as a **Technical Writer**, **Senior Technical Writer**, or **Project Manager**. I have conducted **training lectures** for **Technowrites** and **Fergusson** students  **MS Word** and **Adobe RoboHelp**.
 
 I am eager to be a part of an organization that offers a challenging and growth-oriented work environment and helps me put my technical writing skills and abilities to maximum use. I want to be the best Technical Writer in any organization I work for.
