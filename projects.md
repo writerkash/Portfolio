@@ -74,7 +74,7 @@ layout: page
     <td> 2. </td>
     <td> Spring Computing Technologies Pvt. Ltd. </td>
     <td><ul><li>Super Admin Guide</li>
-•	Delegated Admin Guide
+            <li>Delegated Admin Guide
 •	Agent Guide
 (Managed a team of Four Writers)
 </td>
