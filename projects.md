@@ -109,8 +109,8 @@ layout: page
     <td>DITA source files to generate required outputs— PDF or Help File (chm)
    </td>
     <td><ul><li>MS Word</li>
-             <li>Oxygen XML Editor</li></ul></td></tr>
-     <tr>
+   <li>Oxygen XML Editor</li></ul></td></tr>
+   <tr>
    <tr>
     <td> 6. </td>
     <td> TÜV SÜD </td>
