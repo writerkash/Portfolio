@@ -54,7 +54,7 @@ layout: page
  <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
 <li> Conducting training lectures.
 </li></ul></td>
-</tbody><table>
+</tbody></table>
 
 
 ## Technowrites Projects Summary
