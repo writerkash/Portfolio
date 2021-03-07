@@ -53,7 +53,7 @@ header:
 footer:
   content: '&copy; 2021 Akash Jujam. All rights reserved.'
   links:
-    - label: lorem-ipsum
+    - label: home
       url: '#'
       style: link
       icon_class: dev
