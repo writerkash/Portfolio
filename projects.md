@@ -50,7 +50,7 @@ layout: page
   <li>Scheduling meetings for the team and participating in product demos.</li>
   <li>Managing projects and a team of writers.</li>
   <li>Having status update meetings and prioritize work.</li>
-  <Working on multiple projects at a time and completing the tasks within a deadline.
+  <>Working on multiple projects at a time and completing the tasks within a deadline.
 •	Writing and Reviewing the documents for language, style, and consistency.
 •	Preparing Minutes of Meeting (MoM).
 •	Preparing in-house documentation, training material, PowerPoint presentations.
