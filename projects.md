@@ -48,9 +48,9 @@ layout: page
  <li> Writing and Reviewing the documents for language, style, and consistency. </li>
  <li> Preparing Minutes of Meeting (MoM). </li>
  <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
-<li> Conducting training lectures.
-</li></ul></td> </tbody>
-</table>
+ <li> Conducting training lectures.
+ </li></ul></td> </tbody>
+ </table>
 
  ## Technowrites Projects Summary
 
