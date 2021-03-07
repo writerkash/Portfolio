@@ -86,7 +86,7 @@ layout: page
     <td>MS Word</td></tr>
      <tr>
     <td> 4. </td>
-    <td> SRubiscape Pvt. Ltd.</td>
+    <td> Rubiscape Pvt. Ltd.</td>
     <td><ul><li>User’s Guide</li>
             <li>Administrator’s Guide</li>
             <li>Algorithm Reference Guide</li>
