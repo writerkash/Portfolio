@@ -60,7 +60,7 @@ layout: page
       <tr><th>Sr. No.</th>
       <th>Company</th>
       <tr><th>Documents worked on</th></tr>
-      <tr><th>Designation: Senior Technical Writer</th></tr>
+      <tr><th>Tools used</th></tr>
     </thead>
   <tbody>
   <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
