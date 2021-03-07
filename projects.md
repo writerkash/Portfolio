@@ -128,7 +128,7 @@ layout: page
   <tr>
     <td> 8. </td>
     <td> CREDAI (National) </td>
-    <td>Seven User Manuals for various equipment
+    <td>Preparing Books,<br>
    </td>
     <td>MS Word</td></tr>
      <tr>
