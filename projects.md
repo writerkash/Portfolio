@@ -35,7 +35,7 @@ layout: page
   <table>
     <caption>Simple table with caption and header</caption>
     <thead>
-      <tr>
+      
         <th>Company: Technowrites Pvt. Ltd.</th>
         <th>Location: Shivajinagar, Pune</th>
       </tr>
