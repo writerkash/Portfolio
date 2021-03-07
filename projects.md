@@ -36,7 +36,7 @@ layout: page
     <caption>Simple table with caption and header</caption>
     <thead>
       <tr>
-        <th>Company: Technowrites Pvt. Ltd.1</th>
+        <th>Company: Technowrites Pvt. Ltd.</th>
         <th>Column 2</th>
       </tr>
         <th>Column 3</th>
