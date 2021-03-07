@@ -6,7 +6,7 @@ sections:
     type: section_content
     title: Contact Information
     content: >
-      Email: jujamakash@gmail.com  
+      Email: jujamakash@gmail.com
       Mobile: +91 91684 65778 
   - section_id: contact-form
     type: section_form
