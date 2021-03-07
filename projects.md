@@ -48,8 +48,7 @@ layout: page
         <td style="white-space:nowrap"><b>Responsibilities</b>:  <br><ul>
   <li>Participating in meetings to understand the requirement.</li>&nbsp;
   <td>&nbsp;</td>
-  <li>Tea</li>
-  <li>Milk</li>
+  
 </ul></td>
       </tr>
     </tbody>
