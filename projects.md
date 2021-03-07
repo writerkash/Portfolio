@@ -87,7 +87,7 @@ layout: page
      <tr>
     <td> 4. </td>
     <td> SRubiscape Pvt. Ltd.</td>
-    <td>•	User’s Guide
+    <td><ul><li>User’s Guide
 •	Administrator’s Guide
 •	Algorithm Reference Guide
 •	Concept Dictionary
