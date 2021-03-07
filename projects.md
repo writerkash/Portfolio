@@ -29,6 +29,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
+<div class="responsive-table">
   <table>
    <thead>
       <tr>
