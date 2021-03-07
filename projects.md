@@ -152,7 +152,7 @@ layout: page
     <td> 11. </td>
     <td> IntelliVision, Pune (On-site) </td>
     <td> API Guides and User’s Guide)</td>
-    <td>MS Wor</td></tr>
+    <td>MS Word</td></tr>
     <tr>
     <td> 12. </td>
     <td> Alef Edge </td>
