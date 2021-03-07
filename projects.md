@@ -169,7 +169,6 @@ layout: page
     <td> Administrator’s Guide</td>
     <td>MS Word</td></tr>
     <tr>
-    <tr>
     <td> 1. </td>
     <td> Alef Edge </td>
     <td> User Guide (Markdown)<br> (Managed One Writer)</td>
