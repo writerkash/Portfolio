@@ -75,7 +75,7 @@ layout: page
     <td> Spring Computing Technologies Pvt. Ltd. </td>
     <td><ul><li>Super Admin Guide</li>
             <li>Delegated Admin Guide</li>
-            <li>Agent Guide
+            <li>Agent Guide</li>
 (Managed a team of Four Writers)
 </td>
     <td>Git and GitLab, Docsify</td></tr>
