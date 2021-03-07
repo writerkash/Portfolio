@@ -2,13 +2,27 @@
 title: More Information
 hide_title: false
 sections:
- - section_id: about
+  - title: Individual Performance Award
+    section_id: Individual Performance Award
+    posts_number: 0
+    actions: []
+    type: section_posts
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
     type: section_content
-    title: About
-    content: >
-      I am a bachelor of Electronics and Tele-Communication engineering and a
-      Technical Writer by profession. I am always keen to learn new technologies
-      and enhance the user experience by creating quality documentation.
 seo:
   title: ''
   description: ''
