@@ -126,7 +126,7 @@ layout: page
     <td>MS Word</td></tr>
      <tr>
   <tr>
-    <td> 7. </td>
+    <td> 8. </td>
     <td> Mahindra Tsubaki Conveyor Systems Private Limited </td>
     <td>Seven User Manuals for various equipment
    </td>
