@@ -104,7 +104,7 @@ layout: page
              <li>Moodle</li></ul>
     </td></tr>
      <tr>
-    <td> 3. </td>
+    <td> 5. </td>
     <td> Servocontrols & Hydraulics India Pvt. Ltd. </td>
     <td>User Manual for Jammer System <br> (Managed a team of Three Writers)
    </td>
