@@ -83,7 +83,7 @@ layout: page
     <td>User Manual for Jammer System <br> (Managed a team of Three Writers)</td>
     <td>MS Word</td></tr>
     <td> 4. </td>
-    <td> Spring Computing Technologies Pvt. Ltd. </td>
+    <td> Rubiscape Pvt. Ltd.</td>
     <td><ul><li>Super Admin Guide</li>
             <li>Delegated Admin Guide</li>
             <li>Agent Guide</li></ul>(Managed a team of Four Writers)
