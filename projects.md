@@ -189,7 +189,7 @@ layout: page
     <td> SDLC Documents</td>
     <td>MS Word</td></tr>
 
-    <div class="responsive-table">
+<div class="responsive-table">
   <table>
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
