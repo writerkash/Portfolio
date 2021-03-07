@@ -30,7 +30,6 @@ sections:
       Drawing & Painting
       Trekking
       Photography
-
     actions: []
     type: section_content
 seo:
