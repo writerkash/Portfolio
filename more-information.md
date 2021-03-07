@@ -19,8 +19,6 @@ sections:
       Participated in the STC India National conference held in December 2018 in Mumbai, December 2019 in Chennai, December 2020 (Virtual).
       Participated in various regional conferences held by the STC India.
       Participated in various webinars held by the STC India.
-
-      *   Edited and published a book on Amazon.in
     actions: []
     type: section_content
 - title: Individual Performance Award
