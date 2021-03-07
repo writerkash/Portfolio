@@ -190,7 +190,7 @@ layout: page
     <td>MS Word</td></tr>
  actions:
     - label: View Projects
-      url: /projects
+        url: /projects
         style: button
       - label: Contact Me
         url: /contact
