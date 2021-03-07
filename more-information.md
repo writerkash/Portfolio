@@ -4,7 +4,7 @@ hide_title: true
 excerpt: More information
 sections:
   - title: Individual Performance Award
-    section_id: lorem-ipsum
+    section_id: performance award
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
