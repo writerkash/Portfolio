@@ -33,17 +33,16 @@ sections:
   - title: Hobbies
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      *   Reading Novels
 
+      *   Listening Songs
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Drawing & Painting
 
+      *   Trekking
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Photography
     actions: []
     type: section_content
 seo:
