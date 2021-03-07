@@ -46,7 +46,7 @@ layout: page
      <tr>
         <td style="white-space:nowrap"><b>Responsibilities</b>:  <br><ul>
   <li>Participating in meetings to understand the requirement.</li>
-  <li>•	Preparing outlines (ToC) and estimating the project for cost and time effort.</li>
+  <li>Preparing outlines (ToC) and estimating the project for cost and time effort.</li>
   <li>Participating in meetings to understand the requirement.</li>
   <li>Participating in meetings to understand the requirement.</li>
   <li>Participating in meetings to understand the requirement.</li>
