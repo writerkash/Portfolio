@@ -15,8 +15,8 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      *   Conducted Webinars.  
-      *   Conducted training lectures at Fergusson College and Technowrites.
+      *  Conducted Webinars.  
+      *  Conducted training lectures at Fergusson College and Technowrites.
       *   Participated in the STC India National conference held in December
       2018 in Mumbai, December 2019 in Chennai, December 2020 (Virtual).
       *   Participated in various regional conferences held by the STC India.
