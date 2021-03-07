@@ -52,7 +52,7 @@ layout: page
   <li>Having status update meetings and prioritize work.</li>
   <li>Working on multiple projects at a time and completing the tasks within a deadline.</li>
  <li> Writing and Reviewing the documents for language, style, and consistency. </li>
- <li> Preparing Minutes of Meeting (MoM).
+ <li> Preparing Minutes of Meeting (MoM). <li>
 •	Preparing in-house documentation, training material, PowerPoint presentations.
 •	Conducting training lectures.
 </li>
