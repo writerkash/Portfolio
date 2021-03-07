@@ -98,6 +98,7 @@ layout: page
    </td>
     <td><ul> <li>MS Word</li>
              <li>Confluence </li>
+             <li>Adobe Captivate </li>
              <li>
     </td></tr>
     
