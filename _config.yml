@@ -68,7 +68,7 @@ footer:
       no_follow: false
       type: action
     - label: Projects
-      url: '#'
+      url: /projects
       style: link
       icon_class: dev
       new_window: false
