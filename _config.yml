@@ -75,7 +75,7 @@ footer:
       no_follow: false
       type: action
     - label: Blog
-      url: '#'
+      url: /blog
       style: link
       icon_class: dev
       new_window: false
