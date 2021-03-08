@@ -43,7 +43,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: icon
-        icon_class: youtube
+        icon_class: dev
         new_window: false
         no_follow: false
         type: action
