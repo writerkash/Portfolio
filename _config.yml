@@ -82,7 +82,7 @@ footer:
       no_follow: false
       type: action
     - label: Contact
-      url: /conta
+      url: /contact
       style: link
       icon_class: dev
       new_window: false
