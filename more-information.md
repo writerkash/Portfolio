@@ -40,7 +40,7 @@ sections:
       *   Trekking
       *   Photography
     actions:
-      - label: lorem-ipsum
+      - label: Back to Projects
         url: '#'
         style: button
         icon_class: dev
