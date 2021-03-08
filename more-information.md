@@ -41,7 +41,7 @@ sections:
       *   Photography
     actions:
       - label: Back to Projects
-        url: /project
+        url: /projects
         style: button
         icon_class: dev
         new_window: false
