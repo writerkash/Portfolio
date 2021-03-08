@@ -61,7 +61,7 @@ footer:
       no_follow: false
       type: action
     - label: About
-      url: '#'
+      url: /
       style: link
       icon_class: dev
       new_window: false
