@@ -108,3 +108,4 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
 domain: 'https://www.akashthewriter.com'
+favicon: images/Akash Vijay Jujam.jpg
