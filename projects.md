@@ -54,7 +54,7 @@ layout: page
   <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
   <li>Interacting with customers</li>
   <li>Hosting online meetings</li>
-  <li>Scheduling meetings for the team and participating in product demos.</li>
+  <li>Leading a team of writers</li>
   <li>Managing projects and a team of writers.</li>
   <li>Having status update meetings and prioritize work.</li>
   <li>Working on multiple projects at a time and completing the tasks within a deadline.</li>
