@@ -67,7 +67,7 @@ layout: page
  <li> Planning and executing the project</li>
  <li> Creating demo videos</li>
  <li> Participating in meetings</li>
- <li> Writing the document</li>
+ <li> Participating in overseas conference calls</li>
  </ul></td> </tbody>
  </table></div>
 
