@@ -38,7 +38,7 @@ layout: page
       <tr><th>Period: June 2021 till date</th></tr>
       <tr><th>Designation: Information Developer II</th></tr>
     </thead>
- <hr class="rounded">
+ <hr>
  </table>
   <table>
    <thead>
