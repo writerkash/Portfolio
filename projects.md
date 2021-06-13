@@ -56,7 +56,7 @@ layout: page
   <li>Hosting online meetings</li>
   <li>Leading a team of writers</li>
   <li>Managing projects and a team of writers.</li>
-  <li>Having status update meetings and prioritize work.</li>
+  <li>Training and mentoring team members</li>
   <li>Working on multiple projects at a time and completing the tasks within a deadline.</li>
  <li> Writing and Reviewing the documents for language, style, and consistency. </li>
  <li> Preparing Minutes of Meeting (MoM). </li>
