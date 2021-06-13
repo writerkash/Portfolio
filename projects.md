@@ -33,7 +33,7 @@ layout: page
 <div class="responsive-table">
 <table>
   <thead>
-      <tr><th>Company: Precisely <a href="https://www.technowrites.com">
+      <tr><th>Company: Precisely <a href="https://www.precisely.com">
 <img src="https://www.precisely.com/app/uploads/2020/05/Precisely_wordmark_rgb_purple.jpg" alt="Technowrites" width="120" height="152">
 </a> </th></tr>
       <tr><th>Location: Viman Nagar, Pune</th> </tr>
