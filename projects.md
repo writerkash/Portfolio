@@ -40,6 +40,7 @@ layout: page
       <tr><th><hr></th></tr>
     </thead>
 <div class="responsive-table">    
+<table>
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
