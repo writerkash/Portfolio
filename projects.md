@@ -39,7 +39,7 @@ layout: page
       <tr><th>Designation: Information Developer II</th></tr>
     </thead>
  <hr class="rounded">
- </table></div>
+ </table>
   <table>
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
