@@ -31,6 +31,16 @@ seo:
 layout: page
 ---
 <div class="responsive-table">
+<table>
+   <thead>
+      <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
+      <tr><th>Location: Shivajinagar, Pune</th> </tr>
+      <tr><th>Period: March 2018 till date</th></tr>
+      <tr><th>Designation: Senior Technical Writer</th></tr>
+    </thead>
+  <tbody>
+  <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
+  <li>Participating in meetings to understand the requirement.</li>
   <table>
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
