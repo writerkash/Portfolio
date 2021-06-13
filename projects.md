@@ -34,7 +34,7 @@ layout: page
 <table>
   <thead>
       <tr><th>Company: Precisely <a href="https://www.technowrites.com">
-<img src="Downloads/Precisely_logo.png" alt="Technowrites" width="120" height="152">
+<img src="C:/Downloads/Precisely_logo.png" alt="Technowrites" width="120" height="152">
 </a> </th></tr>
       <tr><th>Location: Viman Nagar, Pune</th> </tr>
       <tr><th>Period: June 2021 till date</th></tr>
