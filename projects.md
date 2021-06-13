@@ -39,18 +39,7 @@ layout: page
       <tr><th>Designation: Senior Technical Writer</th></tr>
     </thead>
      <tbody>
-  <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
-  <li>Participating in meetings to understand the requirement.</li>
-  <li>Preparing outlines (ToC) and estimating the project for cost and time effort.</li>
-  <li>Scheduling meetings for the team and participating in product demos.</li>
-  <li>Managing projects and a team of writers.</li>
-  <li>Having status update meetings and prioritize work.</li>
-  <li>Working on multiple projects at a time and completing the tasks within a deadline.</li>
- <li> Writing and Reviewing the documents for language, style, and consistency. </li>
- <li> Preparing Minutes of Meeting (MoM). </li>
- <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
- <li> Conducting training lectures.
- </li></ul></td> </tbody>
+  <td style="white-space:nowrap"></td> </tbody>
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
