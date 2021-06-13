@@ -40,7 +40,8 @@ layout: page
     </thead>
   <tbody>
   <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
-  <li>Participating in meetings to understand the requirement.</li>
+  <li>Participating in meetings to understand the requirement.</li></ul></td> </tbody>
+ </table></div>
   <table>
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
