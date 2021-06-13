@@ -34,7 +34,7 @@ layout: page
 <table>
    <thead>
       <tr><th>Company: Precisely</th></tr>
-      <tr><th>Location: Shivajinagar, Pune</th> </tr>
+      <tr><th>Location: Viman nagar, Pune</th> </tr>
       <tr><th>Period: March 2018 till date</th></tr>
       <tr><th>Designation: Senior Technical Writer</th></tr>
     </thead>
