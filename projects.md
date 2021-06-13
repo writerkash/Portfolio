@@ -53,7 +53,7 @@ layout: page
   <tbody>
   <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
   <li>Interacting with customers</li>
-  <li>Preparing outlines (ToC) and estimating the project for cost and time effort.</li>
+  <li>Hosting online meetings</li>
   <li>Scheduling meetings for the team and participating in product demos.</li>
   <li>Managing projects and a team of writers.</li>
   <li>Having status update meetings and prioritize work.</li>
