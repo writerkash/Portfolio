@@ -33,7 +33,7 @@ layout: page
 <div class="responsive-table">
 <table>
   <thead>
-      <tr><th>Company: Precisely <a href="https://www.precisely.com">
+      <tr><th>Company: Precisely <a href="https://www.precisely.com" target="_blank">
 <img src="https://www.cloudera.com/content/dam/www/marketing/images/logos/partner-solutions/precisely-logo.png" alt="Precisely" width="120" height="152">
 </a> </th></tr>
       <tr><th>Location: Viman Nagar, Pune</th> </tr>
