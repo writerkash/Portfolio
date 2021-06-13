@@ -39,7 +39,7 @@ layout: page
       <tr><th>Designation: Senior Technical Writer</th></tr>
       <tr><th><hr></th></tr>
     </thead>
-    
+<div class="responsive-table">    
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
