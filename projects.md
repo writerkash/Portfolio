@@ -42,7 +42,7 @@ layout: page
 <table>
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.<a href="https://www.w3schools.com">
-<img src="w3html.gif" alt="W3Schools.com" width="100" height="132">
+<img src="https://technowrites.com/wp-content/uploads/2020/11/cropped-Logo-Final.png" alt="W3Schools.com" width="100" height="132">
 </a> </th></tr>
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
       <tr><th>Period: March 2018 to May 2021</th></tr>
