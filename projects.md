@@ -58,7 +58,7 @@ layout: page
   <li>Managing projects and a team of writers.</li>
   <li>Training and mentoring team members</li>
   <li>Conducting training for Technowrites’s students</li>
- <li> Writing and Reviewing the documents for language, style, and consistency. </li>
+ <li> Meeting the Subject Matter Experts</li>
  <li> Preparing Minutes of Meeting (MoM). </li>
  <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
  <li> Conducting training lectures.
