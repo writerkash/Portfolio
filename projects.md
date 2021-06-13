@@ -41,7 +41,7 @@ layout: page
 <div class="responsive-table">    
 <table>
    <thead>
-      <tr><th>Company: Technowrites Pvt. Ltd.<a href="https://www.w3schools.com">
+      <tr><th>Company: Technowrites Pvt. Ltd.<a href="https://www.technowrites.com">
 <img src="https://technowrites.com/wp-content/uploads/2020/11/cropped-Logo-Final.png" alt="W3Schools.com" width="100" height="132">
 </a> </th></tr>
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
