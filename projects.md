@@ -62,6 +62,12 @@ layout: page
  <li> Preparing estimation</li>
  <li> Preparing document outline</li>
  <li> Writing the document</li>
+ <li> Writing the document</li>
+ <li> Writing the document</li>
+ <li> Writing the document</li>
+ <li> Writing the document</li>
+ <li> Writing the document</li>
+ <li> Writing the document</li>
  </ul></td> </tbody>
  </table></div>
 
