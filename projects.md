@@ -35,7 +35,7 @@ layout: page
   <thead>
       <tr><th>Company: Precisely</th></tr>
       <tr><th>Location: Viman Nagar, Pune</th> </tr>
-      <tr><th>Period: March 2018 to May 2021</th></tr>
+      <tr><th>Period: June 2021 to May 2021</th></tr>
       <tr><th>Designation: Information Developer II</th></tr>
       </thead></table></div>
 <div class="responsive-table">    
