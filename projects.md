@@ -36,7 +36,7 @@ layout: page
       <tr><th>Company: Precisely</th></tr>
       <tr><th>Location: Viman Nagar, Pune</th> </tr>
       <tr><th>Period: March 2018 to May 2021</th></tr>
-      <tr><th>Designation: Senior Technical Writer</th></tr>
+      <tr><th>Designation: Information Developer II</th></tr>
       </thead></table></div>
 <div class="responsive-table">    
 <table>
