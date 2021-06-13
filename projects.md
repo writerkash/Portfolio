@@ -60,7 +60,7 @@ layout: page
   <li>Conducting training for Technowrites’s students</li>
  <li> Meeting the Subject Matter Experts</li>
  <li> Preparing estimation</li>
- <li> Preparing in-house documentation, training material, PowerPoint presentations. </li>
+ <li> Preparing document outline</li>
  <li> Conducting training lectures.
  </li></ul></td> </tbody>
  </table></div>
