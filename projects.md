@@ -61,8 +61,7 @@ layout: page
  <li> Meeting the Subject Matter Experts</li>
  <li> Preparing estimation</li>
  <li> Preparing document outline</li>
- <li> Conducting training lectures.
- </li></ul></td> </tbody>
+ <li> Writing the document</li></ul></td> </tbody>
  </table></div>
 
 ## Technowrites Projects Summary
