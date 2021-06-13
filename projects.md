@@ -66,7 +66,7 @@ layout: page
  <li> Working on-site at client location</li>
  <li> Planning and executing the project</li>
  <li> Creating demo videos</li>
- <li> Writing the document</li>
+ <li> Participating in meetings</li>
  <li> Writing the document</li>
  </ul></td> </tbody>
  </table></div>
