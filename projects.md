@@ -64,7 +64,7 @@ layout: page
  <li> Writing the document</li>
  <li> Revising the document</li>
  <li> Working on-site at client location</li>
- <li> Writing the document</li>
+ <li> Planning and executing the project</li>
  <li> Writing the document</li>
  <li> Writing the document</li>
  <li> Writing the document</li>
