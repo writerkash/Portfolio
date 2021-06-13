@@ -34,7 +34,7 @@ layout: page
 <table>
   <thead>
       <tr><th>Company: Precisely <a href="https://www.precisely.com" target="_blank">
-<img src="https://www.cloudera.com/content/dam/www/marketing/images/logos/partner-solutions/precisely-logo.png" alt="Precisely" width="120" height="152">
+<img src="https://www.cloudera.com/content/dam/www/marketing/images/logos/partner-solutions/precisely-logo.png" alt="Precisely" width="100" height="132">
 </a> </th></tr>
       <tr><th>Location: Viman Nagar, Pune</th> </tr>
       <tr><th>Period: June 2021 till date</th></tr>
