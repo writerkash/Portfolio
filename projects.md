@@ -33,7 +33,9 @@ layout: page
 <div class="responsive-table">
 <table>
   <thead>
-      <tr><th>Company: Precisely</th></tr>
+      <tr><th>Company: Precisely <a href="https://www.technowrites.com">
+<img src="https://technowrites.com/wp-content/uploads/2020/11/cropped-Logo-Final.png" alt="Technowrites" width="120" height="152">
+</a> </th></tr>
       <tr><th>Location: Viman Nagar, Pune</th> </tr>
       <tr><th>Period: June 2021 till date</th></tr>
       <tr><th>Designation: Information Developer II</th></tr>
