@@ -63,7 +63,7 @@ layout: page
  <li> Preparing document outline</li>
  <li> Writing the document</li>
  <li> Revising the document</li>
- <li> Writing the document</li>
+ <li> Working on-site at client location</li>
  <li> Writing the document</li>
  <li> Writing the document</li>
  <li> Writing the document</li>
