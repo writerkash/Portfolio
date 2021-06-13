@@ -43,7 +43,7 @@ layout: page
 <div class="responsive-table">    
 <table>
    <thead>
-      <tr><th>Company: Technowrites Pvt. Ltd. <a href="https://www.technowrites.com">
+      <tr><th>Company: Technowrites Pvt. Ltd. <a href="https://www.technowrites.com" target="_blank">
 <img src="https://technowrites.com/wp-content/uploads/2020/11/cropped-Logo-Final.png" alt="Technowrites" width="120" height="152">
 </a> </th></tr>
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
