@@ -37,7 +37,7 @@ layout: page
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
       <tr><th>Period: March 2018 to May 2021</th></tr>
       <tr><th>Designation: Senior Technical Writer</th></tr>
-      <tr><th></th></tr>
+      <tr><th><hr></th></tr>
     </thead>
     
    <thead>
