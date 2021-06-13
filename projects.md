@@ -38,9 +38,7 @@ layout: page
       <tr><th>Period: June 2021 till date</th></tr>
       <tr><th>Designation: Information Developer II</th></tr>
     </thead>
-  <tbody>
-  <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
-  <li>Participating in meetings to understand the requirement.</li></ul></td> </tbody>
+ 
  </table></div>
   <table>
    <thead>
