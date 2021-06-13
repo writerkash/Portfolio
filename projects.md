@@ -62,7 +62,7 @@ layout: page
  <li> Preparing estimation</li>
  <li> Preparing document outline</li>
  <li> Writing the document</li>
- <li> Writing the document</li>
+ <li> Revising the document</li>
  <li> Writing the document</li>
  <li> Writing the document</li>
  <li> Writing the document</li>
