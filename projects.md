@@ -38,6 +38,7 @@ layout: page
       <tr><th>Period: March 2018 to May 2021</th></tr>
       <tr><th>Designation: Senior Technical Writer</th></tr>
     </thead>
+    
    <thead>
       <tr><th>Company: Technowrites Pvt. Ltd.</th></tr>
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
