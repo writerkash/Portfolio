@@ -33,7 +33,7 @@ layout: page
 <div class="responsive-table">
 <table>
   <thead>
-      <tr><th>Precisely</th></tr>
+      <tr><th>Company: Precisely</th></tr>
       <tr><th>Location: Shivajinagar, Pune</th> </tr>
       <tr><th>Period: March 2018 to May 2021</th></tr>
       <tr><th>Designation: Senior Technical Writer</th></tr>
