@@ -40,12 +40,6 @@ layout: page
       <tr><th>Period: June 2021 till date</th></tr>
       <tr><th>Designation: Information Developer II</th></tr>
       </thead>
-     <tbody>
-  <td style="white-space:nowrap"><b>Responsibilities</b>:<ul>
-  <li>Interacting with customers</li>
-  <li>Hosting online meetings</li>
-  <li>Leading a team of writers</li>
- </ul></td> </tbody> 
       </table></div>
 
 <div class="responsive-table">    
