@@ -51,7 +51,7 @@ header:
       new_window: true
   profile_img: images/propic.jpg
 footer:
-  content: '&copy; 2021 Akash Jujam. All rights reserved.'
+  content: © 2022 Akash Jujam. All rights reserved.
   links:
     - label: home
       url: /
