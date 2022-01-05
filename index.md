@@ -42,7 +42,7 @@ sections:
           Paint, Photoshop
       *   **Programming or markup languages known**
 
-      HTML, XML, Markdown
+           HTML, XML, Markdown
 
       *   **Meeting tools**\
           Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
