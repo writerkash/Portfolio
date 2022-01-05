@@ -45,7 +45,6 @@ layout: page
   <li>Interacting with customers</li>
   <li>Hosting online meetings</li>
   <li>Leading a team of writers</li>
-
  </ul></td> </tbody> 
       </table></div>
 <div class="responsive-table">    
