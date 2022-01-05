@@ -47,7 +47,7 @@ layout: page
   <li>Leading a team of writers</li>
  </ul></td> </tbody> 
       </table></div>
-## demo
+### demo
 <div class="responsive-table">    
 <table>
    <thead>
