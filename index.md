@@ -48,8 +48,6 @@ sections:
       *   **Programming or markup languages known**
           HTML, XML, Markdown
 
-      <!---->
-
       *   **Meeting tools**
           Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
     actions:
