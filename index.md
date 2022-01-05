@@ -45,8 +45,6 @@ sections:
       *   **Image editors**
           Paint, Photoshop
 
-      <!---->
-
       *   **Programming or markup languages known**
           HTML, XML, Markdown
 
