@@ -45,19 +45,7 @@ layout: page
   <li>Interacting with customers</li>
   <li>Hosting online meetings</li>
   <li>Leading a team of writers</li>
-  <li>Managing projects and a team of writers.</li>
-  <li>Training and mentoring team members</li>
-  <li>Conducting training for Technowrites’s students</li>
- <li> Meeting the Subject Matter Experts</li>
- <li> Preparing estimation</li>
- <li> Preparing document outline</li>
- <li> Writing the document</li>
- <li> Revising the document</li>
- <li> Working on-site at client location</li>
- <li> Planning and executing the project</li>
- <li> Creating demo videos</li>
- <li> Participating in meetings</li>
- <li> Participating in overseas conference calls</li>
+
  </ul></td> </tbody> 
       </table></div>
 <div class="responsive-table">    
