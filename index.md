@@ -32,7 +32,7 @@ sections:
     content: |
       *   **Operating systems** <br>
           MS Windows 7, Windows 8, Windows 10, Linux (Ubuntu)
-      *   **Applications**
+      *   **Applications** <br>
           MS Word, Atlassian Confluence, Adobe Captivate, Git and GitHub, Oxygen XML Editor, MS PowerPoint, Grammarly, Moodle, Adobe Presenter, MS Excel, Adobe RoboHelp, DITA-OT
       *   **Screen capturing tools** <br>
           Snagit, Jing
