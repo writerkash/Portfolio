@@ -15,12 +15,11 @@ sections:
       I am a bachelor of Electronics and Tele-Communication engineering and a
       Technical Writer by profession. I am always keen to learn new technologies
       and enhance the user experience by creating quality documentation.
-     
     actions: []
   - section_id: about
     type: section_content
     title: Certifications
-    content: >
+    content: |
       *   **DTC (Diploma in Technical Communication)**  
           Name of the Organization: Technowrites Pvt. Ltd.
       *   **DITA (Darwin Information Typing Architecture)**  
@@ -30,20 +29,19 @@ sections:
   - section_id: technical skills
     type: section_content
     title: Technical Skills
-    content: >
-      *   **Operating systems**  
+    content: |
+      *   **Operating systems**\
           MS Windows 7, Windows 8, Windows 10, Linux (Ubuntu)
-      *   **Applications**  
+      *   **Applications**\
           MS Word, Atlassian Confluence, Adobe Captivate, Git and GitHub, Oxygen XML Editor, MS PowerPoint, Grammarly, Moodle, Adobe Presenter, MS Excel, Adobe RoboHelp, DITA-OT
-      *   **Screen capturing tools**  
+      *   **Screen capturing tools**\
           Snagit, Jing
-      *   **Drawing tools**  
+      *   **Drawing tools**\
           Pencil, OpenOffice Draw
-      *   **Image editors**  
+      *   **Image editors**\
           Paint, Photoshop
-      *   **Programming or markup languages known**  
-          HTML, XML
-      *   **Meeting tools**  
+      *   **Programming or markup languages known**HTML, XML, Markdown
+      *   **Meeting tools**\
           Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
     actions:
       - label: View Projects
