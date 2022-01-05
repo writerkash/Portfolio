@@ -39,16 +39,16 @@ sections:
       *   **Screen capturing tools** <br>
           Snagit, Jing
 
-      *   **Drawing tools**
+      *   **Drawing tools** <br>
           Pencil, OpenOffice Draw
 
-      *   **Image editors**
+      *   **Image editors** <br>
           Paint, Photoshop
 
-      *   **Programming or markup languages known**
+      *   **Programming or markup languages known** <br>
           HTML, XML, Markdown
 
-      *   **Meeting tools**
+      *   **Meeting tools** <br>
           Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
     actions:
       - label: View Projects
