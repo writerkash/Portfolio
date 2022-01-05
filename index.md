@@ -29,23 +29,50 @@ sections:
   - section_id: technical skills
     type: section_content
     title: Technical Skills
-    content: |
-      *   **Operating systems**\
-          MS Windows 7, Windows 8, Windows 10, Linux (Ubuntu)
-      *   **Applications**\
-          MS Word, Atlassian Confluence, Adobe Captivate, Git and GitHub, Oxygen XML Editor, MS PowerPoint, Grammarly, Moodle, Adobe Presenter, MS Excel, Adobe RoboHelp, DITA-OT
-      *   **Screen capturing tools**\
-          Snagit, Jing
-      *   **Drawing tools**\
-          Pencil, OpenOffice Draw
-      *   **Image editors**\
-          Paint, Photoshop
+    content: >
+      *   **Operating systems
+          **MS Windows 7, Windows 8, Windows 10, Linux (Ubuntu)
+
+      <!---->
+
+
+      *   **Applications**
+
+
+      *   MS Word, Atlassian Confluence, Adobe Captivate, Git and GitHub, Oxygen
+      XML Editor, MS PowerPoint, Grammarly, Moodle, Adobe Presenter, MS Excel,
+      Adobe RoboHelp, DITA-OT
+
+
+      <!---->
+
+
+      *   **Screen capturing tools
+          **Snagit, Jing
+
+      <!---->
+
+
+      *   **Drawing tools
+          **Pencil, OpenOffice Draw
+
+      <!---->
+
+
+      *   **Image editors
+          **Paint, Photoshop
+
+      <!---->
+
+
       *   **Programming or markup languages known**
+          HTML, XML, Markdown
 
-           HTML, XML, Markdown
+      <!---->
 
-      *   **Meeting tools**\
-          Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
+
+      *   **Meeting tools
+          **Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
     actions:
       - label: View Projects
         url: /projects
