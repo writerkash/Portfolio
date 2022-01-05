@@ -30,7 +30,7 @@ sections:
     type: section_content
     title: Technical Skills
     content: |
-      *   **Operating systems** \<!---->
+      *   **Operating systems**
 
           MS Windows 7, Windows 8, Windows 10, Linux (Ubuntu)
 
