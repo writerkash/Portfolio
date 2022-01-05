@@ -42,8 +42,6 @@ sections:
       *   **Drawing tools**
           Pencil, OpenOffice Draw
 
-      <!---->
-
       *   **Image editors**
           Paint, Photoshop
 
