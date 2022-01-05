@@ -39,8 +39,6 @@ sections:
       *   **Screen capturing tools** <br>
           Snagit, Jing
 
-      <!---->
-
       *   **Drawing tools**
           Pencil, OpenOffice Draw
 
