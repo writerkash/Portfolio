@@ -41,7 +41,6 @@ layout: page
       <tr><th>Designation: Information Developer II</th></tr>
       </thead>
       </table></div>
-
 <div class="responsive-table">    
 <table>
    <thead>
