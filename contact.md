@@ -63,5 +63,5 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
-layout: base
+layout: advanced
 ---
