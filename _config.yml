@@ -10,7 +10,7 @@ header:
   title: Akash Vijay Jujam
   tagline: Docs for Life!
   background: dark
-  has_nav: false
+  has_nav: true
   nav_links:
     - label: Home
       url: /
