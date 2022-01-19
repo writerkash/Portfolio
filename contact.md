@@ -9,7 +9,7 @@ sections:
       **Email**: <a
       href="mailto:jujamakash@gmail.com">jujamakash@gmail.com</a>  
          **Mobile**: +91 91684 65778
-    actions: []
+    actions: [as]
   - section_id: contact-form
     type: section_form
     content: To get in touch please fill the form below.
