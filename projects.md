@@ -39,7 +39,8 @@ layout: page
       <tr><th>Location: Viman Nagar, Pune</th> </tr>
       <tr><th>Period: June 2021 till date</th></tr>
       <tr><th>Designation: Information Developer II</th></tr>
-      </thead></table></div>
+      </thead>
+      </table></div>
 <div class="responsive-table">    
 <table>
    <thead>
