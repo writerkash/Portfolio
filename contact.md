@@ -5,9 +5,17 @@ sections:
   - section_id: about
     type: section_content
     title: Contact Information
-    content: |
-      **Email**: <a href="mailto:jujamakash@gmail.com">jujamakash@gmail.com</a>  
+    content: >
+      **Email**: <a
+      href="mailto:jujamakash@gmail.com">jujamakash@gmail.com</a>  
          **Mobile**: +91 91684 65778
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
   - section_id: contact-form
     type: section_form
     content: To get in touch please fill the form below.
