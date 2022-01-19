@@ -85,7 +85,8 @@ sections:
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
     type: section_form
