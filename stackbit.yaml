@@ -131,7 +131,7 @@ models:
       - type: string
         name: permalink
         label: Permalink
-        description: 'The ocontutput path for your pages, posts, or collections.'
+        description: 'The output path for your pages, posts, or collections.'
         default: '/posts/:slug:output_ext'
         hidden: true
       - type: string
