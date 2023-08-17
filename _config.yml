@@ -21,6 +21,14 @@ header:
     - label: Projects
       url: /projects/
       style: link
+      submenu:
+        - label: Project 1
+          url: /projects/project1/
+          style: link
+        - label: Project 2
+          url: /projects/project2/
+          style: link
+        # Add more project links as needed
     - label: Blog
       url: /blog/
       style: link
