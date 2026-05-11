@@ -1,78 +1,50 @@
-# ✨ scientific-europa ✨
+---
+title: About Me
+img_path: images/propic.jpg
+img_alt: Akash the Writer
+subtitle: Career Summary
+seo:
+  title: About Me
+  description: About Akash the Technical Writer
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: About Me
+      keyName: property
+    - name: 'og:description'
+      value: This is the about me page
+      keyName: property
+    - name: 'og:image'
+      value: images/propic.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: About Me
+    - name: 'twitter:description'
+      value: This is the about me page
+    - name: 'twitter:image'
+      value: images/propic.jpg
+      relativeUrl: true
+layout: page
+---
+I have worked extensively for **Software** as well as **Mechanical** domain. I have worked diversely on several documents including,
 
-<img src="https://themes.stackbit.com/images/fresh-demo-1024x768.png" width="600">
+*   User Guides/Manuals
+*   Administrator Guides
+*   API Guides
+*   Technical Papers
+*   Case Studies
+*   White Papers
+*   Company Profiles
+*   Training Materials
+*   SDLC Documentation
+*   SOPs
+*   Expression of Interest (EOI)
 
-This is a [Jekyll](https://jekyllrb.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
+I have also worked on creative content for a Website and CREDAI. I have worked on projects as a **Technical Writer**, **Senior Technical Writer**, and **Project Manager**. I have conducted **training lectures** for **Technowrites** and **Fergusson** students on **MS Word** and **Adobe RoboHelp**.
 
-You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-fresh&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
-
-<details>
-        <summary>🎨 &nbsp;<strong>Look</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-azimuth&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A sleek SaaS theme</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-agency&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Showcase of agency work</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-fjord&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A minimal blogging theme</a></li>
-                </ul>
-</details>
-
-<details>
-        <summary>✏️ &nbsp;<strong>CMS</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?cms=forestry&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Forestry</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=datocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Dato CMS</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a></li>
-                </ul>
-</details>
-
-<details>
-        <summary>⚙️ &nbsp;<strong>Static site generator</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?ssg=gatsby&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Gatsby</a></li>
-                <li><a href="https://app.stackbit.com/create?ssg=nextjs&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Next.js</a></li>
-                <li><a href="https://app.stackbit.com/create?ssg=hugo&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Hugo</a></li>
-                </ul>
-</details>
-
-## Develop Locally
-
-1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
-
-1. Install Jekyll and Bundler:
-
-        gem install jekyll bundler
-
-1. Install dependencies from Gemfile:
-
-        bundle install
-
-
-
-1. Build the site and start the Jekyll local development server
-
-        bundle exec jekyll serve --livereload
-
-1. Open [http://localhost:4000](http://localhost:4000) in the browser
-
-1. 🎉
-
-## Editing Content
-
-To start editing your site, you can edit the included Markdown files.
-
-Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
-
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
-
-Here's a few resources to get you started:
-
-- 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
-- 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
-- 📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
-- 📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
-- 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
-
-If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
-
-## Colophon
-
-Generated at `2021-03-06T10:29:44.341Z` by Stackbit version `0.3.50`.
+I am eager to be a part of an organization that offers a challenging and growth-oriented work environment and helps me put my technical writing skills and abilities to maximum use. I want to be the best Technical Writer in any organization I work for.
