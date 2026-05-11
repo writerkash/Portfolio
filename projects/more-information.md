@@ -1,17 +1,25 @@
 # More Information
 
-### Individual Performance Award
+### Awards & Recognition
 
 * Migrated the entire team to Microsoft 365 and trained the team.
 * Edited and published a book on Amazon.in
 
-### Extra Curriculum Activities
+***
 
-* Conducted **Webinars**.
-* Conducted **training lectures** at **Fergusson College** and **Technowrites**.
-* Participated in the **STC India National conference** held in _December 2018_ in _Mumbai_, _December 2019_ in _Chennai_, _December 2020 (Virtual)_.
-* Participated in various **regional conferences** held by the **STC India**.
-* Participated in various **webinars** held by the **STC India**.
+### Community Engagement & Extracurricular Activities
+
+* Conducted webinars on technical communication and documentation-related topics.
+* Delivered training sessions and lectures at:
+  * Fergusson College
+  * Technowrites Pvt. Ltd.
+* Participated in multiple conferences organized by STC India, including:
+  * National Conference, Mumbai (2018)
+  * National Conference, Chennai (2019)
+  * National Conference, Virtual Edition (2020)
+* Regular participant in regional conferences and webinars conducted by STC India.
+
+***
 
 ### Hobbies
 

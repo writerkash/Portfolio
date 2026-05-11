@@ -1,6 +1,7 @@
 # Table of contents
 
-* [About Me](README.md)
+* [Home](README.md)
+* [About Me](<README (1).md>)
 * [Projects](projects/README.md)
   * [More Information](projects/more-information.md)
 * [Blog](_posts/README.md)
