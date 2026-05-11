@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Home](README.md)
-* [About Me](<README (1).md>)
-* [More Information](more-information.md)
-* [Projects](projects.md)
+* [About Me](README.md)
+* [Projects](projects/README.md)
+  * [More Information](projects/more-information.md)
 * [Blog](_posts/README.md)
   * [It Matters That You Just Don't Give Up!](_posts/2018-08-11-Don't-give-up.md)
   * [Be Grateful Before It's Too Late](_posts/2019-02-25-be-grateful.md)
