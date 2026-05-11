@@ -1,20 +1,70 @@
 ---
-title: About Me
-img_path: images/propic.jpg
-img_alt: Akash the Writer
-subtitle: Career Summary
+title: Home
+hide_title: true
+sections:
+  - section_id: hero
+    type: section_hero
+    title: 'Hi, folks'
+    content: |
+      Writing is my passion, and the love for documentation keeps me going!
+    actions: []
+  - section_id: about
+    type: section_content
+    title: About
+    content: >
+      I am a bachelor of Electronics and Tele-Communication engineering and a
+      Technical Writer by profession. I am always keen to learn new technologies
+      and enhance the user experience by creating quality documentation.
+    actions: []
+  - section_id: about
+    type: section_content
+    title: Certifications
+    content: |
+      *   **DTC (Diploma in Technical Communication)**  
+          Name of the Organization: Technowrites Pvt. Ltd.
+      *   **DITA (Darwin Information Typing Architecture)**  
+          Name of the Organization: Technowrites Pvt. Ltd.
+      *   **Learning Rest APIs**  
+          Name of the Organization: LinkedIn Learning
+  - section_id: technical skills
+    type: section_content
+    title: Technical Skills
+    content: |
+      *   **Operating systems** <br>
+          MS Windows 7, Windows 8, Windows 10, Linux (Ubuntu)
+      *   **Applications** <br>
+          MS Word, Atlassian Confluence, Adobe Captivate, Git and GitHub, Oxygen XML Editor, MS PowerPoint, Grammarly, Moodle, Adobe Presenter, MS Excel, Adobe RoboHelp, DITA-OT
+      *   **Screen capturing tools** <br>
+          Snagit, Jing
+      *   **Drawing tools** <br>
+          Pencil, OpenOffice Draw
+      *   **Image editors** <br>
+          Paint, Photoshop
+      *   **Programming or markup languages known** <br>
+          HTML, XML, Markdown
+      *   **Meeting tools** <br>
+          Zoom, MS Teams, Skype, Go To Meeting, Google Hangouts
+    actions:
+      - label: View Projects
+        url: /projects
+        style: button
+      - label: Contact Me
+        url: /contact
+        style: button
 seo:
-  title: About Me
-  description: About Akash the Technical Writer
+  title: Akash Jujam's brief profile
+  description: >-
+    This is a brief profile of Akash Jujam. He is a passionate Technical Writer
+    who loves technology, and love creating product documentation.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Akash Jujam's brief profile
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: This is a brief profile of Akash Jujam
       keyName: property
     - name: 'og:image'
       value: images/propic.jpg
@@ -23,28 +73,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Akash Jujam's brief profile
     - name: 'twitter:description'
-      value: This is the about me page
+      value: This is a brief profile of Akash Jujam
     - name: 'twitter:image'
       value: images/propic.jpg
       relativeUrl: true
-layout: page
+layout: advanced
 ---
-I have worked extensively for **Software** as well as **Mechanical** domain. I have worked diversely on several documents including,
-
-*   User Guides/Manuals
-*   Administrator Guides
-*   API Guides
-*   Technical Papers
-*   Case Studies
-*   White Papers
-*   Company Profiles
-*   Training Materials
-*   SDLC Documentation
-*   SOPs
-*   Expression of Interest (EOI)
-
-I have also worked on creative content for a Website and CREDAI. I have worked on projects as a **Technical Writer**, **Senior Technical Writer**, and **Project Manager**. I have conducted **training lectures** for **Technowrites** and **Fergusson** students on **MS Word** and **Adobe RoboHelp**.
-
-I am eager to be a part of an organization that offers a challenging and growth-oriented work environment and helps me put my technical writing skills and abilities to maximum use. I want to be the best Technical Writer in any organization I work for.
